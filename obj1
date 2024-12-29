@@ -1,0 +1,691 @@
+{
+  "abstractScrid": 7191164,
+  "audioTracks": [
+    {
+      "audioCodec": "LPCM",
+      "audioCodecName": "PCM Audio",
+      "audioCodecType": "PCM Audio",
+      "bitDepth": 24,
+      "bitRate": 1152000,
+      "bitRateMode": "CBR",
+      "channels": [
+        {
+          "channelPosition": "L",
+          "description": "Full Mix Stereo Left",
+          "descriptionCode": "FML",
+          "discoveryLanguage": "English",
+          "discoveryLanguageCode": "eng",
+          "language": "English",
+          "languageCode": "eng"
+        }
+      ],
+      "durationFrames": 153873,
+      "durationTimeCode": "00:42:47;04",
+      "endianness": "Little",
+      "frameRate": 59.94,
+      "path": "s3://discovery.com.prod.onramp.archive.us-east-1/188392_003_UHD-SDR_2593618_2.mxf",
+      "sampleRate": 48000,
+      "tcFirstLast": {
+        "durationSeconds": 2567,
+        "durationTimecode": "00:42:47;04",
+        "end": "01:42:27;04",
+        "start": "00:59:40;00"
+      }
+    },
+    {
+      "audioCodec": "LPCM",
+      "audioCodecName": "PCM Audio",
+      "audioCodecType": "PCM Audio",
+      "bitDepth": 24,
+      "bitRate": 1152000,
+      "bitRateMode": "CBR",
+      "channels": [
+        {
+          "channelPosition": "R",
+          "description": "Full Mix Stereo Right",
+          "descriptionCode": "FMR",
+          "discoveryLanguage": "English",
+          "discoveryLanguageCode": "eng",
+          "language": "English",
+          "languageCode": "eng"
+        }
+      ],
+      "durationFrames": 153873,
+      "durationTimeCode": "00:42:47;04",
+      "endianness": "Little",
+      "frameRate": 59.94,
+      "path": "s3://discovery.com.prod.onramp.archive.us-east-1/188392_003_UHD-SDR_2593618_2.mxf",
+      "sampleRate": 48000,
+      "tcFirstLast": {
+        "durationSeconds": 2567,
+        "durationTimecode": "00:42:47;04",
+        "end": "01:42:27;04",
+        "start": "00:59:40;00"
+      }
+    },
+    {
+      "audioCodec": "LPCM",
+      "audioCodecName": "PCM Audio",
+      "audioCodecType": "PCM Audio",
+      "bitDepth": 24,
+      "bitRate": 1152000,
+      "bitRateMode": "CBR",
+      "channels": [
+        {
+          "channelPosition": "L",
+          "description": "Mix Minus Narration Stereo Left",
+          "descriptionCode": "MML",
+          "discoveryLanguage": "English",
+          "discoveryLanguageCode": "eng",
+          "language": "English",
+          "languageCode": "eng"
+        }
+      ],
+      "durationFrames": 153873,
+      "durationTimeCode": "00:42:47;04",
+      "endianness": "Little",
+      "frameRate": 59.94,
+      "path": "s3://discovery.com.prod.onramp.archive.us-east-1/188392_003_UHD-SDR_2593618_2.mxf",
+      "sampleRate": 48000,
+      "tcFirstLast": {
+        "durationSeconds": 2567,
+        "durationTimecode": "00:42:47;04",
+        "end": "01:42:27;04",
+        "start": "00:59:40;00"
+      }
+    },
+    {
+      "audioCodec": "LPCM",
+      "audioCodecName": "PCM Audio",
+      "audioCodecType": "PCM Audio",
+      "bitDepth": 24,
+      "bitRate": 1152000,
+      "bitRateMode": "CBR",
+      "channels": [
+        {
+          "channelPosition": "R",
+          "description": "Mix Minus Narration Stereo Right",
+          "descriptionCode": "MMR",
+          "discoveryLanguage": "English",
+          "discoveryLanguageCode": "eng",
+          "language": "English",
+          "languageCode": "eng"
+        }
+      ],
+      "durationFrames": 153873,
+      "durationTimeCode": "00:42:47;04",
+      "endianness": "Little",
+      "frameRate": 59.94,
+      "path": "s3://discovery.com.prod.onramp.archive.us-east-1/188392_003_UHD-SDR_2593618_2.mxf",
+      "sampleRate": 48000,
+      "tcFirstLast": {
+        "durationSeconds": 2567,
+        "durationTimecode": "00:42:47;04",
+        "end": "01:42:27;04",
+        "start": "00:59:40;00"
+      }
+    },
+    {
+      "audioCodec": "LPCM",
+      "audioCodecName": "PCM Audio",
+      "audioCodecType": "PCM Audio",
+      "bitDepth": 24,
+      "bitRate": 1152000,
+      "bitRateMode": "CBR",
+      "channels": [
+        {
+          "channelPosition": "L",
+          "description": "Music Stereo Left",
+          "descriptionCode": "ML",
+          "discoveryLanguage": "English",
+          "discoveryLanguageCode": "eng",
+          "language": "English",
+          "languageCode": "eng"
+        }
+      ],
+      "durationFrames": 153873,
+      "durationTimeCode": "00:42:47;04",
+      "endianness": "Little",
+      "frameRate": 59.94,
+      "path": "s3://discovery.com.prod.onramp.archive.us-east-1/188392_003_UHD-SDR_2593618_2.mxf",
+      "sampleRate": 48000,
+      "tcFirstLast": {
+        "durationSeconds": 2567,
+        "durationTimecode": "00:42:47;04",
+        "end": "01:42:27;04",
+        "start": "00:59:40;00"
+      }
+    },
+    {
+      "audioCodec": "LPCM",
+      "audioCodecName": "PCM Audio",
+      "audioCodecType": "PCM Audio",
+      "bitDepth": 24,
+      "bitRate": 1152000,
+      "bitRateMode": "CBR",
+      "channels": [
+        {
+          "channelPosition": "R",
+          "description": "Music Stereo Right",
+          "descriptionCode": "MR",
+          "discoveryLanguage": "English",
+          "discoveryLanguageCode": "eng",
+          "language": "English",
+          "languageCode": "eng"
+        }
+      ],
+      "durationFrames": 153873,
+      "durationTimeCode": "00:42:47;04",
+      "endianness": "Little",
+      "frameRate": 59.94,
+      "path": "s3://discovery.com.prod.onramp.archive.us-east-1/188392_003_UHD-SDR_2593618_2.mxf",
+      "sampleRate": 48000,
+      "tcFirstLast": {
+        "durationSeconds": 2567,
+        "durationTimecode": "00:42:47;04",
+        "end": "01:42:27;04",
+        "start": "00:59:40;00"
+      }
+    },
+    {
+      "audioCodec": "LPCM",
+      "audioCodecName": "PCM Audio",
+      "audioCodecType": "PCM Audio",
+      "bitDepth": 24,
+      "bitRate": 1152000,
+      "bitRateMode": "CBR",
+      "channels": [
+        {
+          "channelPosition": "L",
+          "description": "Sound Effects/SOT/BG dialog Stereo Left",
+          "descriptionCode": "EL",
+          "discoveryLanguage": "English",
+          "discoveryLanguageCode": "eng",
+          "language": "English",
+          "languageCode": "eng"
+        }
+      ],
+      "durationFrames": 153873,
+      "durationTimeCode": "00:42:47;04",
+      "endianness": "Little",
+      "frameRate": 59.94,
+      "path": "s3://discovery.com.prod.onramp.archive.us-east-1/188392_003_UHD-SDR_2593618_2.mxf",
+      "sampleRate": 48000,
+      "tcFirstLast": {
+        "durationSeconds": 2567,
+        "durationTimecode": "00:42:47;04",
+        "end": "01:42:27;04",
+        "start": "00:59:40;00"
+      }
+    },
+    {
+      "audioCodec": "LPCM",
+      "audioCodecName": "PCM Audio",
+      "audioCodecType": "PCM Audio",
+      "bitDepth": 24,
+      "bitRate": 1152000,
+      "bitRateMode": "CBR",
+      "channels": [
+        {
+          "channelPosition": "R",
+          "description": "Sound Effects/SOT/BG dialog Stereo Right",
+          "descriptionCode": "ER",
+          "discoveryLanguage": "English",
+          "discoveryLanguageCode": "eng",
+          "language": "English",
+          "languageCode": "eng"
+        }
+      ],
+      "durationFrames": 153873,
+      "durationTimeCode": "00:42:47;04",
+      "endianness": "Little",
+      "frameRate": 59.94,
+      "path": "s3://discovery.com.prod.onramp.archive.us-east-1/188392_003_UHD-SDR_2593618_2.mxf",
+      "sampleRate": 48000,
+      "tcFirstLast": {
+        "durationSeconds": 2567,
+        "durationTimecode": "00:42:47;04",
+        "end": "01:42:27;04",
+        "start": "00:59:40;00"
+      }
+    },
+    {
+      "audioCodec": "LPCM",
+      "audioCodecName": "PCM Audio",
+      "audioCodecType": "PCM Audio",
+      "bitDepth": 24,
+      "bitRate": 1152000,
+      "bitRateMode": "CBR",
+      "channels": [
+        {
+          "channelPosition": "L",
+          "description": "Music and Effects Stereo Left",
+          "descriptionCode": "MEL",
+          "discoveryLanguage": "English",
+          "discoveryLanguageCode": "eng",
+          "language": "English",
+          "languageCode": "eng"
+        }
+      ],
+      "durationFrames": 153873,
+      "durationTimeCode": "00:42:47;04",
+      "endianness": "Little",
+      "frameRate": 59.94,
+      "path": "s3://discovery.com.prod.onramp.archive.us-east-1/188392_003_UHD-SDR_2593618_2.mxf",
+      "sampleRate": 48000,
+      "tcFirstLast": {
+        "durationSeconds": 2567,
+        "durationTimecode": "00:42:47;04",
+        "end": "01:42:27;04",
+        "start": "00:59:40;00"
+      }
+    },
+    {
+      "audioCodec": "LPCM",
+      "audioCodecName": "PCM Audio",
+      "audioCodecType": "PCM Audio",
+      "bitDepth": 24,
+      "bitRate": 1152000,
+      "bitRateMode": "CBR",
+      "channels": [
+        {
+          "channelPosition": "R",
+          "description": "Music and Effects Stereo Right",
+          "descriptionCode": "MER",
+          "discoveryLanguage": "English",
+          "discoveryLanguageCode": "eng",
+          "language": "English",
+          "languageCode": "eng"
+        }
+      ],
+      "durationFrames": 153873,
+      "durationTimeCode": "00:42:47;04",
+      "endianness": "Little",
+      "frameRate": 59.94,
+      "path": "s3://discovery.com.prod.onramp.archive.us-east-1/188392_003_UHD-SDR_2593618_2.mxf",
+      "sampleRate": 48000,
+      "tcFirstLast": {
+        "durationSeconds": 2567,
+        "durationTimecode": "00:42:47;04",
+        "end": "01:42:27;04",
+        "start": "00:59:40;00"
+      }
+    },
+    {
+      "audioCodec": "LPCM",
+      "audioCodecName": "PCM Audio",
+      "audioCodecType": "PCM Audio",
+      "bitDepth": 24,
+      "bitRate": 1152000,
+      "bitRateMode": "CBR",
+      "channels": [
+        {
+          "channelPosition": "Mono",
+          "description": "Interview and foreground dialog Mono",
+          "descriptionCode": "D",
+          "discoveryLanguage": "English",
+          "discoveryLanguageCode": "eng",
+          "language": "English",
+          "languageCode": "eng"
+        }
+      ],
+      "durationFrames": 153873,
+      "durationTimeCode": "00:42:47;04",
+      "endianness": "Little",
+      "frameRate": 59.94,
+      "path": "s3://discovery.com.prod.onramp.archive.us-east-1/188392_003_UHD-SDR_2593618_2.mxf",
+      "sampleRate": 48000,
+      "tcFirstLast": {
+        "durationSeconds": 2567,
+        "durationTimecode": "00:42:47;04",
+        "end": "01:42:27;04",
+        "start": "00:59:40;00"
+      }
+    },
+    {
+      "audioCodec": "LPCM",
+      "audioCodecName": "PCM Audio",
+      "audioCodecType": "PCM Audio",
+      "bitDepth": 24,
+      "bitRate": 1152000,
+      "bitRateMode": "CBR",
+      "channels": [
+        {
+          "channelPosition": "Mono",
+          "description": "Narration Mono",
+          "descriptionCode": "N",
+          "discoveryLanguage": "English",
+          "discoveryLanguageCode": "eng",
+          "language": "English",
+          "languageCode": "eng"
+        }
+      ],
+      "durationFrames": 153873,
+      "durationTimeCode": "00:42:47;04",
+      "endianness": "Little",
+      "frameRate": 59.94,
+      "path": "s3://discovery.com.prod.onramp.archive.us-east-1/188392_003_UHD-SDR_2593618_2.mxf",
+      "sampleRate": 48000,
+      "tcFirstLast": {
+        "durationSeconds": 2567,
+        "durationTimecode": "00:42:47;04",
+        "end": "01:42:27;04",
+        "start": "00:59:40;00"
+      }
+    }
+  ],
+  "checkSum": "3f0e820f47209d07a42f3981dba655c2-5924",
+  "clock": {
+    "actualCreditType": "Embedded",
+    "actualLength": 2520,
+    "actualTime": "42:00",
+    "name": "4200-6 EC",
+    "segmentCount": 6
+  },
+  "concreteScrid": "9162334",
+  "container": "MXF",
+  "createdBySystem": "rally",
+  "createdByUser": "rally",
+  "cutDescription": "4200-6 EC",
+  "cutId": 3592410,
+  "dateCreated": "2020-10-09T16:47:10.000+00:00",
+  "dateUpdated": "2021-03-03T23:07:37+0000",
+  "destinationDueDate": "2021-03-19",
+  "durationFrames": 153872,
+  "durationTime": "00:42:47.097",
+  "durationTimeCode": "00:42:47;04",
+  "features": {
+    "creditBed": {
+      "durationSeconds": 30,
+      "durationTimecode": "00:00:29;58",
+      "end": "01:42:24:59",
+      "start": "01:41:54:57"
+    },
+    "leader": {
+      "durationSeconds": 10,
+      "durationTimecode": "00:00:09;59",
+      "end": "00:59:54:59",
+      "start": "00:59:45:00"
+    },
+    "originalSegments": {
+      "features": {
+        "creditBed": {
+          "durationSeconds": 30,
+          "durationTimecode": "00:00:29;58",
+          "end": "01:42:24:59",
+          "start": "01:41:54:57"
+        },
+        "leader": {
+          "durationSeconds": 10,
+          "durationTimecode": "00:00:09;59",
+          "end": "00:59:54:59",
+          "start": "00:59:45:00"
+        }
+      },
+      "segments": [
+        {
+          "durationSeconds": 608,
+          "durationTimecode": "00:10:07;59",
+          "end": "01:10:07:59",
+          "inPad": 0,
+          "outPad": 0,
+          "start": "01:00:00:00",
+          "type": "Segment"
+        },
+        {
+          "durationSeconds": 298,
+          "durationTimecode": "00:04:57;49",
+          "end": "01:15:10:53",
+          "inPad": 0,
+          "outPad": 0,
+          "start": "01:10:13:00",
+          "type": "Segment"
+        },
+        {
+          "durationSeconds": 354,
+          "durationTimecode": "00:05:53;53",
+          "end": "01:21:09:47",
+          "inPad": 0,
+          "outPad": 0,
+          "start": "01:15:15:54",
+          "type": "Segment"
+        },
+        {
+          "durationSeconds": 322,
+          "durationTimecode": "00:05:22;23",
+          "end": "01:26:37:11",
+          "inPad": 0,
+          "outPad": 0,
+          "start": "01:21:14:48",
+          "type": "Segment"
+        },
+        {
+          "durationSeconds": 413,
+          "durationTimecode": "00:06:53;29",
+          "end": "01:33:35:41",
+          "inPad": 0,
+          "outPad": 0,
+          "start": "01:26:42:12",
+          "type": "Segment"
+        },
+        {
+          "durationSeconds": 524,
+          "durationTimecode": "00:08:44;17",
+          "end": "01:42:24:59",
+          "inPad": 0,
+          "outPad": 0,
+          "start": "01:33:40:42",
+          "type": "Segment"
+        }
+      ]
+    }
+  },
+  "fileExtension": "mxf",
+  "fileSize": 198768681520,
+  "filename": "188392_003_UHD-SDR_2593618_2.mxf",
+  "frameRate": 59.94,
+  "hiveMetadata": {
+    "episodeId": 907794,
+    "episodeNumber": 3,
+    "episodeTitle": "FBI Bomb Squad",
+    "network": "Science - US",
+    "premiereDate": "2020-01-08",
+    "propertyId": 188392,
+    "scrid": "8602469",
+    "seasonId": 192720,
+    "seasonNumber": 1,
+    "seasonTitle": "The Explosion Show",
+    "showId": 160158,
+    "showTitle": "The Explosion Show",
+    "slotLength": 3600
+  },
+  "ibmsMediaId": "USM/B270419A",
+  "ibmsTitleId": "270419",
+  "legacyCutId": "USM/B270419A",
+  "legacyCutIdType": "ibmsMediaId",
+  "logicalGroupId": 907794,
+  "logicalGroupType": "Episode",
+  "mfxMediaId": 83382095,
+  "mfxVersionId": 63990260,
+  "networkOwner": {
+    "abbreviation": "SCI-US",
+    "id": 48,
+    "name": "Science - US",
+    "type": "pds"
+  },
+  "objectClass": "Deliverable",
+  "objectId": 2584585,
+  "objectSubclass": "Program Master File",
+  "objectType": "Supply",
+  "path": "s3://discovery.com.prod.onramp.archive.us-east-1/188392_003_UHD-SDR_2593618_2.mxf",
+  "propertyId": 188392,
+  "proxies": {
+    "QCProxy": {
+      "audioCodec": "AAC",
+      "bitRate": 15096952,
+      "containerType": "QuickTime",
+      "durationSeconds": 2567.098,
+      "durationTimecode": "00:42:47;05",
+      "fileExtension": "mov",
+      "fileSize": 5098173303,
+      "frameRate": 59.94,
+      "mimeType": "video/mp4",
+      "numAudioTracks": 12,
+      "path": "s3://discovery.com.prod.onramp.archive.us-east-1/188392_003_UHD-SDR_2593618_2_QCProxy.mov",
+      "scanType": "Progressive",
+      "tcFirstLast": {
+        "durationSeconds": 2567,
+        "durationTimecode": "00:42:47;05",
+        "end": "01:42:28;53",
+        "start": "00:59:41;48"
+      },
+      "thumbnailPath": "s3://discovery.com.prod.onramp.archive.us-east-1/188392_003_UHD-SDR_2593618_2][thumbnail.jpg",
+      "videoCodec": "AVC",
+      "videoHeight": 2160,
+      "videoWidth": 3840
+    },
+    "SdviProxy": {
+      "audioCodec": "AAC",
+      "bitRate": 1200000,
+      "containerType": "Base Media",
+      "durationSeconds": 2567.098,
+      "durationTimecode": "00:42:47;05",
+      "fileExtension": "mp4",
+      "fileSize": 424934691,
+      "frameRate": 59.94,
+      "mimeType": "video/mp4",
+      "numAudioTracks": 1,
+      "path": "s3://discovery.com.prod.onramp.archive.us-east-1/188392_003_UHD-SDR_2593618_2][sdvi_proxy.mp4",
+      "scanType": "Progressive",
+      "tcFirstLast": {
+        "durationSeconds": 2567,
+        "durationTimecode": "00:42:47;05",
+        "end": "01:42:28;53",
+        "start": "00:59:41;48"
+      },
+      "thumbnailPath": "s3://discovery.com.prod.onramp.archive.us-east-1/188392_003_UHD-SDR_2593618_2][thumbnail.jpg",
+      "videoCodec": "AVC",
+      "videoHeight": 720,
+      "videoWidth": 1280
+    },
+    "hive": {
+      "audioCodec": "AAC",
+      "bitRate": 1200000,
+      "containerType": "Base Media",
+      "durationSeconds": 2567.098,
+      "durationTimecode": "00:42:47;05",
+      "fileExtension": "mp4",
+      "fileSize": 424934691,
+      "frameRate": 59.94,
+      "mimeType": "video/mp4",
+      "numAudioTracks": 1,
+      "path": "s3://discovery.com.prod.dmcc.download.us-east-1/sdvi/188392_003_UHD-SDR_2593618_2][sdvi_proxy.mp4",
+      "scanType": "Progressive",
+      "tcFirstLast": {
+        "durationSeconds": 2567,
+        "durationTimecode": "00:42:47;05",
+        "end": "01:42:28;53",
+        "start": "00:59:41;48"
+      },
+      "thumbnailPath": "s3://dci-prod-dmcc-thumbnails-us-east-1/sdvi/188392_003_UHD-SDR_2593618_2][thumbnail.jpg",
+      "videoCodec": "AVC",
+      "videoHeight": 720,
+      "videoWidth": 1280
+    }
+  },
+  "regionOwner": "DCTC",
+  "sdviFileId": 25970963,
+  "sdviFilename": "188392_003_UHD-SDR_2593618_2",
+  "sdviMovieId": 725843,
+  "sdviMovieLabel": "SdviMovieFile",
+  "sdviMovieName": "188392_003_UHD-SDR_2593618_2",
+  "segments": [
+    {
+      "durationSeconds": 608,
+      "durationTimecode": "00:10:07;59",
+      "end": "01:10:07:59",
+      "start": "01:00:00:00",
+      "type": "Segment"
+    },
+    {
+      "durationSeconds": 298,
+      "durationTimecode": "00:04:57;49",
+      "end": "01:15:10:53",
+      "start": "01:10:13:00",
+      "type": "Segment"
+    },
+    {
+      "durationSeconds": 354,
+      "durationTimecode": "00:05:53;53",
+      "end": "01:21:09:47",
+      "start": "01:15:15:54",
+      "type": "Segment"
+    },
+    {
+      "durationSeconds": 322,
+      "durationTimecode": "00:05:22;23",
+      "end": "01:26:37:11",
+      "start": "01:21:14:48",
+      "type": "Segment"
+    },
+    {
+      "durationSeconds": 413,
+      "durationTimecode": "00:06:53;29",
+      "end": "01:33:35:41",
+      "start": "01:26:42:12",
+      "type": "Segment"
+    },
+    {
+      "durationSeconds": 524,
+      "durationTimecode": "00:08:44;17",
+      "end": "01:42:24:59",
+      "start": "01:33:40:42",
+      "type": "Segment"
+    }
+  ],
+  "segmentsPaddingInd": true,
+  "segmentsPaddingType": "DCTC",
+  "tcFirstLast": {
+    "durationSeconds": 2567,
+    "durationTimecode": "00:42:47;04",
+    "end": "01:42:27;04",
+    "start": "00:59:40;00"
+  },
+  "tcType": "DF",
+  "totalContentTime": "00:41:59;50",
+  "totalRunningTime": "00:42:24;59",
+  "updatedBySystem": "gcr-episode-worker",
+  "updatedByUser": "gcr-episode-worker",
+  "videoTracks": [
+    {
+      "aspectRatio": "16:9",
+      "bitDepth": 10,
+      "bitRate": 600145920,
+      "chromaSubsampling": "4:2:2",
+      "colorEncoding": "YUV",
+      "colorPrimaries": "BT.709",
+      "description": "Main Video",
+      "discoveryLanguage": "English",
+      "discoveryLanguageCode": "eng",
+      "durationFrames": 153873,
+      "durationTimeCode": "00:42:47;04",
+      "frameRate": 59.94,
+      "language": "English",
+      "languageCode": "eng",
+      "path": "s3://discovery.com.prod.onramp.archive.us-east-1/188392_003_UHD-SDR_2593618_2.mxf",
+      "pixelAspectRatio": "1:1",
+      "scanType": "Progressive",
+      "tcFirstLast": {
+        "durationSeconds": 2567,
+        "durationTimecode": "00:42:47;04",
+        "end": "01:42:27;04",
+        "start": "00:59:40;00"
+      },
+      "videoCodec": "XAVC",
+      "videoCodecType": "AVC",
+      "videoHeight": 2160,
+      "videoWidth": 3840
+    }
+  ],
+  "vobileId": "c1f2dcb0-0a53-11eb-9e0d-42010a800fed"
+}

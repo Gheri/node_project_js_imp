@@ -1,0 +1,760 @@
+{
+    "objectType": "Supply",
+    "logicalGroupId": 1630087,
+    "logicalGroupType": "Episode",
+    "objectClass": "Deliverable",
+    "objectSubclass": "Program Master File",
+    "legacyCutId": "267276_003_PMF_4095922_MP_2",
+    "legacyCutIdType": "sdviMovieName",
+    "videoTracks": [
+        {
+            "videoHeight": 1080,
+            "videoWidth": 1920,
+            "aspectRatio": "16:9",
+            "pixelAspectRatio": "1.0:1",
+            "bitDepth": 8,
+            "bitRate": 145344575,
+            "bitRateMode": "CBR",
+            "chromaSubsampling": "4:2:2",
+            "videoCodec": "AVdn",
+            "videoCodecType": "DNxHD 145",
+            "durationFrames": 79592,
+            "durationTimeCode": "00:44:15;21",
+            "frameRate": 29.97,
+            "scanType": "Interlaced",
+            "scanOrder": "TFF",
+            "colorEncoding": "YUV",
+            "colorPrimaries": "BT.709",
+            "language": "English",
+            "languageCode": "eng",
+            "discoveryLanguageCode": "eng",
+            "description": "Main Video",
+            "path": "s3://discovery.com.prod.onramp.archive.us-east-1/external/media/id-205665/project-334017/instance-26814758/received-4095922/267276_003_PMF_4095922_MP_2.mxf",
+            "tcFirstLast": {
+                "start": "00:58:40;00",
+                "end": "01:42:55;19"
+            },
+            "trackIndex": 1
+        }
+    ],
+    "audioTracks": [
+        {
+            "sampleRate": 48000,
+            "bitDepth": 24,
+            "bitRate": 1152000,
+            "bitRateMode": "CBR",
+            "audioCodec": "LPCM",
+            "audioCodecName": "PCM Audio",
+            "audioCodecType": "PCM Audio",
+            "durationFrames": 79592,
+            "durationTimeCode": "00:44:15;21",
+            "frameRate": 29.97,
+            "endianness": "Little",
+            "path": "s3://discovery.com.prod.onramp.archive.us-east-1/external/media/id-205665/project-334017/instance-26814758/received-4095922/267276_003_PMF_4095922_MP_2.mxf",
+            "tcFirstLast": {
+                "start": "00:58:40;00",
+                "end": "01:42:55;19"
+            },
+            "trackIndex": 1,
+            "embedded": true,
+            "channels": [
+                {
+                    "channelPosition": "L",
+                    "channelIndex": 1,
+                    "languageCode": "eng",
+                    "discoveryLanguageCode": "eng",
+                    "descriptionCode": "FML"
+                }
+            ]
+        },
+        {
+            "sampleRate": 48000,
+            "bitDepth": 24,
+            "bitRate": 1152000,
+            "bitRateMode": "CBR",
+            "audioCodec": "LPCM",
+            "audioCodecName": "PCM Audio",
+            "audioCodecType": "PCM Audio",
+            "durationFrames": 79592,
+            "durationTimeCode": "00:44:15;21",
+            "frameRate": 29.97,
+            "endianness": "Little",
+            "path": "s3://discovery.com.prod.onramp.archive.us-east-1/external/media/id-205665/project-334017/instance-26814758/received-4095922/267276_003_PMF_4095922_MP_2.mxf",
+            "tcFirstLast": {
+                "start": "00:58:40;00",
+                "end": "01:42:55;19"
+            },
+            "trackIndex": 2,
+            "embedded": true,
+            "channels": [
+                {
+                    "channelPosition": "R",
+                    "channelIndex": 1,
+                    "languageCode": "eng",
+                    "discoveryLanguageCode": "eng",
+                    "descriptionCode": "FMR"
+                }
+            ]
+        },
+        {
+            "sampleRate": 48000,
+            "bitDepth": 24,
+            "bitRate": 1152000,
+            "bitRateMode": "CBR",
+            "audioCodec": "LPCM",
+            "audioCodecName": "PCM Audio",
+            "audioCodecType": "PCM Audio",
+            "durationFrames": 79592,
+            "durationTimeCode": "00:44:15;21",
+            "frameRate": 29.97,
+            "endianness": "Little",
+            "path": "s3://discovery.com.prod.onramp.archive.us-east-1/external/media/id-205665/project-334017/instance-26814758/received-4095922/267276_003_PMF_4095922_MP_2.mxf",
+            "tcFirstLast": {
+                "start": "00:58:40;00",
+                "end": "01:42:55;19"
+            },
+            "trackIndex": 3,
+            "embedded": true,
+            "channels": [
+                {
+                    "channelPosition": "L",
+                    "channelIndex": 1,
+                    "languageCode": "",
+                    "discoveryLanguageCode": "nol",
+                    "descriptionCode": "MEL"
+                }
+            ]
+        },
+        {
+            "sampleRate": 48000,
+            "bitDepth": 24,
+            "bitRate": 1152000,
+            "bitRateMode": "CBR",
+            "audioCodec": "LPCM",
+            "audioCodecName": "PCM Audio",
+            "audioCodecType": "PCM Audio",
+            "durationFrames": 79592,
+            "durationTimeCode": "00:44:15;21",
+            "frameRate": 29.97,
+            "endianness": "Little",
+            "path": "s3://discovery.com.prod.onramp.archive.us-east-1/external/media/id-205665/project-334017/instance-26814758/received-4095922/267276_003_PMF_4095922_MP_2.mxf",
+            "tcFirstLast": {
+                "start": "00:58:40;00",
+                "end": "01:42:55;19"
+            },
+            "trackIndex": 4,
+            "embedded": true,
+            "channels": [
+                {
+                    "channelPosition": "R",
+                    "channelIndex": 1,
+                    "languageCode": "",
+                    "discoveryLanguageCode": "nol",
+                    "descriptionCode": "MER"
+                }
+            ]
+        },
+        {
+            "sampleRate": 48000,
+            "bitDepth": 24,
+            "bitRate": 1152000,
+            "bitRateMode": "CBR",
+            "audioCodec": "LPCM",
+            "audioCodecName": "PCM Audio",
+            "audioCodecType": "PCM Audio",
+            "durationFrames": 79592,
+            "durationTimeCode": "00:44:15;21",
+            "frameRate": 29.97,
+            "endianness": "Little",
+            "path": "s3://discovery.com.prod.onramp.archive.us-east-1/external/media/id-205665/project-334017/instance-26814758/received-4095922/267276_003_PMF_4095922_MP_2.mxf",
+            "tcFirstLast": {
+                "start": "00:58:40;00",
+                "end": "01:42:55;19"
+            },
+            "trackIndex": 5,
+            "embedded": true,
+            "channels": [
+                {
+                    "channelPosition": "Mono",
+                    "channelIndex": 1,
+                    "languageCode": "eng",
+                    "discoveryLanguageCode": "eng",
+                    "descriptionCode": "D"
+                }
+            ]
+        },
+        {
+            "sampleRate": 48000,
+            "bitDepth": 24,
+            "bitRate": 1152000,
+            "bitRateMode": "CBR",
+            "audioCodec": "LPCM",
+            "audioCodecName": "PCM Audio",
+            "audioCodecType": "PCM Audio",
+            "durationFrames": 79592,
+            "durationTimeCode": "00:44:15;21",
+            "frameRate": 29.97,
+            "endianness": "Little",
+            "path": "s3://discovery.com.prod.onramp.archive.us-east-1/external/media/id-205665/project-334017/instance-26814758/received-4095922/267276_003_PMF_4095922_MP_2.mxf",
+            "tcFirstLast": {
+                "start": "00:58:40;00",
+                "end": "01:42:55;19"
+            },
+            "trackIndex": 6,
+            "embedded": true,
+            "channels": [
+                {
+                    "channelPosition": "L",
+                    "channelIndex": 1,
+                    "languageCode": "",
+                    "discoveryLanguageCode": "nol",
+                    "descriptionCode": "EL"
+                }
+            ]
+        },
+        {
+            "sampleRate": 48000,
+            "bitDepth": 24,
+            "bitRate": 1152000,
+            "bitRateMode": "CBR",
+            "audioCodec": "LPCM",
+            "audioCodecName": "PCM Audio",
+            "audioCodecType": "PCM Audio",
+            "durationFrames": 79592,
+            "durationTimeCode": "00:44:15;21",
+            "frameRate": 29.97,
+            "endianness": "Little",
+            "path": "s3://discovery.com.prod.onramp.archive.us-east-1/external/media/id-205665/project-334017/instance-26814758/received-4095922/267276_003_PMF_4095922_MP_2.mxf",
+            "tcFirstLast": {
+                "start": "00:58:40;00",
+                "end": "01:42:55;19"
+            },
+            "trackIndex": 7,
+            "embedded": true,
+            "channels": [
+                {
+                    "channelPosition": "R",
+                    "channelIndex": 1,
+                    "languageCode": "",
+                    "discoveryLanguageCode": "nol",
+                    "descriptionCode": "ER"
+                }
+            ]
+        },
+        {
+            "sampleRate": 48000,
+            "bitDepth": 24,
+            "bitRate": 1152000,
+            "bitRateMode": "CBR",
+            "audioCodec": "LPCM",
+            "audioCodecName": "PCM Audio",
+            "audioCodecType": "PCM Audio",
+            "durationFrames": 79592,
+            "durationTimeCode": "00:44:15;21",
+            "frameRate": 29.97,
+            "endianness": "Little",
+            "path": "s3://discovery.com.prod.onramp.archive.us-east-1/external/media/id-205665/project-334017/instance-26814758/received-4095922/267276_003_PMF_4095922_MP_2.mxf",
+            "tcFirstLast": {
+                "start": "00:58:40;00",
+                "end": "01:42:55;19"
+            },
+            "trackIndex": 8,
+            "embedded": true,
+            "channels": [
+                {
+                    "channelPosition": "L",
+                    "channelIndex": 1,
+                    "languageCode": "eng",
+                    "discoveryLanguageCode": "eng",
+                    "descriptionCode": "MML"
+                }
+            ]
+        },
+        {
+            "sampleRate": 48000,
+            "bitDepth": 24,
+            "bitRate": 1152000,
+            "bitRateMode": "CBR",
+            "audioCodec": "LPCM",
+            "audioCodecName": "PCM Audio",
+            "audioCodecType": "PCM Audio",
+            "durationFrames": 79592,
+            "durationTimeCode": "00:44:15;21",
+            "frameRate": 29.97,
+            "endianness": "Little",
+            "path": "s3://discovery.com.prod.onramp.archive.us-east-1/external/media/id-205665/project-334017/instance-26814758/received-4095922/267276_003_PMF_4095922_MP_2.mxf",
+            "tcFirstLast": {
+                "start": "00:58:40;00",
+                "end": "01:42:55;19"
+            },
+            "trackIndex": 9,
+            "embedded": true,
+            "channels": [
+                {
+                    "channelPosition": "R",
+                    "channelIndex": 1,
+                    "languageCode": "eng",
+                    "discoveryLanguageCode": "eng",
+                    "descriptionCode": "MMR"
+                }
+            ]
+        },
+        {
+            "sampleRate": 48000,
+            "bitDepth": 24,
+            "bitRate": 1152000,
+            "bitRateMode": "CBR",
+            "audioCodec": "LPCM",
+            "audioCodecName": "PCM Audio",
+            "audioCodecType": "PCM Audio",
+            "durationFrames": 79592,
+            "durationTimeCode": "00:44:15;21",
+            "frameRate": 29.97,
+            "endianness": "Little",
+            "path": "s3://discovery.com.prod.onramp.archive.us-east-1/external/media/id-205665/project-334017/instance-26814758/received-4095922/267276_003_PMF_4095922_MP_2.mxf",
+            "tcFirstLast": {
+                "start": "00:58:40;00",
+                "end": "01:42:55;19"
+            },
+            "trackIndex": 10,
+            "embedded": true,
+            "channels": [
+                {
+                    "channelPosition": "L",
+                    "channelIndex": 1,
+                    "languageCode": "",
+                    "discoveryLanguageCode": "nol",
+                    "descriptionCode": "ML"
+                }
+            ]
+        },
+        {
+            "sampleRate": 48000,
+            "bitDepth": 24,
+            "bitRate": 1152000,
+            "bitRateMode": "CBR",
+            "audioCodec": "LPCM",
+            "audioCodecName": "PCM Audio",
+            "audioCodecType": "PCM Audio",
+            "durationFrames": 79592,
+            "durationTimeCode": "00:44:15;21",
+            "frameRate": 29.97,
+            "endianness": "Little",
+            "path": "s3://discovery.com.prod.onramp.archive.us-east-1/external/media/id-205665/project-334017/instance-26814758/received-4095922/267276_003_PMF_4095922_MP_2.mxf",
+            "tcFirstLast": {
+                "start": "00:58:40;00",
+                "end": "01:42:55;19"
+            },
+            "trackIndex": 11,
+            "embedded": true,
+            "channels": [
+                {
+                    "channelPosition": "R",
+                    "channelIndex": 1,
+                    "languageCode": "",
+                    "discoveryLanguageCode": "nol",
+                    "descriptionCode": "MR"
+                }
+            ]
+        },
+        {
+            "sampleRate": 48000,
+            "bitDepth": 24,
+            "bitRate": 1152000,
+            "bitRateMode": "CBR",
+            "audioCodec": "LPCM",
+            "audioCodecName": "PCM Audio",
+            "audioCodecType": "PCM Audio",
+            "durationFrames": 79592,
+            "durationTimeCode": "00:44:15;21",
+            "frameRate": 29.97,
+            "endianness": "Little",
+            "path": "s3://discovery.com.prod.onramp.archive.us-east-1/external/media/id-205665/project-334017/instance-26814758/received-4095922/267276_003_PMF_4095922_MP_2.mxf",
+            "tcFirstLast": {
+                "start": "00:58:40;00",
+                "end": "01:42:55;19"
+            },
+            "trackIndex": 12,
+            "embedded": true,
+            "channels": [
+                {
+                    "channelPosition": "Mono",
+                    "channelIndex": 1,
+                    "languageCode": "",
+                    "discoveryLanguageCode": "nol",
+                    "descriptionCode": "MOS"
+                }
+            ]
+        }
+    ],
+    "container": "MXF",
+    "fileExtension": "mxf",
+    "frameRate": 29.97,
+    "tcType": "DF",
+    "tcFirstLast": {
+        "start": "00:58:40;00",
+        "end": "01:42:55;19"
+    },
+    "durationFrames": 79592,
+    "durationTimeCode": "00:44:15;21",
+    "path": "s3://discovery.com.prod.onramp.archive.us-east-1/external/media/id-205665/project-334017/instance-26814758/received-4095922/267276_003_PMF_4095922_MP_2.mxf",
+    "checkSum": "7ee95cd37073baf382441bd007b5be61-6355",
+    "fileSize": 53301792768,
+    "afd": "16:9 1000",
+    "proxies": {
+        "CaptionProxy1080i59.94": {
+            "path": "s3://discovery.com.prod.onramp.archive.us-east-1/267276_003_PMF_4095922_MP_2_CaptionProxy.mov",
+            "videoCodec": "AVC",
+            "audioCodec": "AAC",
+            "videoHeight": 1080,
+            "bitRate": 1500000,
+            "videoWidth": 1920,
+            "frameRate": 29.97,
+            "numAudioTracks": 1,
+            "scanType": "MBAFF",
+            "thumbnailPath": "s3://discovery.com.prod.onramp.archive.us-east-1/267276_003_PMF_4095922_MP_2_thumbnail.jpg",
+            "tcFirstLast": {
+                "start": "00:58:40;00",
+                "end": "01:42:55;19"
+            },
+            "fileSize": 543048750,
+            "fileExtension": "mov",
+            "containerType": "QuickTime",
+            "mimeType": "video/mp4",
+            "durationTimecode": "00:44:15;21",
+            "durationSeconds": 2655.687
+        },
+        "SdviProxy": {
+            "path": "s3://discovery.com.prod.onramp.archive.us-east-1/267276_003_PMF_4095922_MP_2_sdvi_proxy.mp4",
+            "videoCodec": "AVC",
+            "audioCodec": "AAC",
+            "videoHeight": 720,
+            "bitRate": 1200000,
+            "videoWidth": 1280,
+            "frameRate": 29.97,
+            "numAudioTracks": 1,
+            "scanType": "Progressive",
+            "thumbnailPath": "s3://discovery.com.prod.onramp.archive.us-east-1/267276_003_PMF_4095922_MP_2_thumbnail.jpg",
+            "tcFirstLast": {
+                "start": "00:58:40;00",
+                "end": "01:42:55;19"
+            },
+            "fileSize": 443892146,
+            "fileExtension": "mp4",
+            "containerType": "Base Media",
+            "mimeType": "video/mp4",
+            "durationTimecode": "00:44:15;21",
+            "durationSeconds": 2655.687
+        },
+        "QCProxy": {
+            "path": "s3://discovery.com.prod.onramp.archive.us-east-1/267276_003_PMF_4095922_MP_2_QC.mov",
+            "videoCodec": "AVC",
+            "audioCodec": "AAC",
+            "videoHeight": 1080,
+            "bitRate": 4684961,
+            "videoWidth": 1920,
+            "frameRate": 29.97,
+            "numAudioTracks": 12,
+            "scanType": "MBAFF",
+            "thumbnailPath": "s3://discovery.com.prod.onramp.archive.us-east-1/267276_003_PMF_4095922_MP_2_thumbnail.jpg",
+            "tcFirstLast": {
+                "start": "00:58:40;00",
+                "end": "01:42:55;19"
+            },
+            "fileSize": 1800325338,
+            "fileExtension": "mov",
+            "containerType": "QuickTime",
+            "mimeType": "video/mp4",
+            "durationTimecode": "00:44:15;21",
+            "durationSeconds": 2655.687
+        }
+    },
+    "captions": {
+        "CaptionEnglish1080i59.94": {
+            "path": "s3://discovery.com.prod.onramp.archive.us-east-1/caption/267276.003.01.695_5608817.scc",
+            "durationSeconds": 2567.0,
+            "subtitleType": "SCC",
+            "frameRate": 59.94,
+            "tcFirstLast": {
+                "start": "01:00:01;03",
+                "end": "01:42:47;01"
+            },
+            "fileSize": 96362,
+            "fileExtension": "scc",
+            "language": "English",
+            "languageCode": "eng",
+            "discoveryLanguageCode": "eng",
+            "trackIndex": 1,
+            "format": "608cc1",
+            "embedded": false
+        },
+        "SdviMovieFile": {
+            "path": "s3://discovery.com.prod.onramp.archive.us-east-1/external/media/id-205665/project-334017/instance-26814758/received-4095922/267276_003_PMF_4095922_MP_2.mxf",
+            "durationSeconds": 2655.686,
+            "subtitleType": "SCC",
+            "frameRate": 59.94,
+            "tcFirstLast": {
+                "start": "00:58:40;00",
+                "end": "01:42:55;19"
+            },
+            "fileSize": 53301792768,
+            "fileExtension": "mxf",
+            "language": "und",
+            "languageCode": "und",
+            "discoveryLanguageCode": "und",
+            "trackIndex": 1,
+            "format": "608cc1",
+            "embedded": true
+        }
+    },
+    "paid": "267276.003.01.695",
+    "propertyId": 267276,
+    "mfxMediaId": 136295069,
+    "mfxVersionId": 136138192,
+    "showCode": "DAYSD803IH",
+    "abstractScrid": 19222789,
+    "concreteScrid": 19222791,
+    "sdviMovieName": "267276_003_PMF_4095922_MP_2",
+    "sdviMovieLabel": "SdviMovieFile",
+    "sdviFilename": "267276_003_PMF_4095922_MP_2",
+    "sdviFileId": 185113289,
+    "sdviMovieId": 8315056,
+    "approvals": {
+        "Technical Evaluation": {
+            "name": "WBAKER",
+            "role": "Technical Evaluation",
+            "status": true,
+            "approvalId": "2ade77f6-9ce1-4857-96a1-907cc1cae004",
+            "approverId": "WBAKER",
+            "approvalTimeStamp": 1716932818142
+        }
+    },
+    "clock": {
+        "segmentCount": 6,
+        "actualCreditType": "Embedded"
+    },
+    "segments": [
+        {
+            "type": "Segment",
+            "start": "01:00:00;00",
+            "end": "01:10:06;11",
+            "inPad": 0,
+            "outPad": 0
+        },
+        {
+            "type": "Segment",
+            "start": "01:10:07;12",
+            "end": "01:17:20;04",
+            "inPad": 0,
+            "outPad": 0
+        },
+        {
+            "type": "Segment",
+            "start": "01:17:21;05",
+            "end": "01:26:43;02",
+            "inPad": 0,
+            "outPad": 0
+        },
+        {
+            "type": "Segment",
+            "start": "01:26:44;03",
+            "end": "01:32:18;08",
+            "inPad": 0,
+            "outPad": 0
+        },
+        {
+            "type": "Segment",
+            "start": "01:32:19;09",
+            "end": "01:37:26;24",
+            "inPad": 0,
+            "outPad": 0
+        },
+        {
+            "type": "Segment",
+            "start": "01:37:27;25",
+            "end": "01:42:50;18",
+            "inPad": 0,
+            "outPad": 0
+        }
+    ],
+    "features": {
+        "featureEvents": {
+            "featureChecked": [
+                "bump",
+                "callToActionAppToss",
+                "callToActionWebtoss",
+                "fullPageGraphicsDisclaimer",
+                "openingSequence",
+                "recapPreviousEpisode",
+                "recapPreviousSeason",
+                "recapPreviousSegment",
+                "recapPreviousSegmentWithBump",
+                "smokingWarning",
+                "teaseUpcomingEpisode",
+                "teaseUpcomingSeason",
+                "teaseUpcomingSegment",
+                "teaseUpcomingSegmentWithBump"
+            ],
+            "events": {
+                "fullPageGraphicsDisclaimer": [
+                    {
+                        "end": "01:00:10;20",
+                        "start": "01:00:00;00",
+                        "isRemovable": false,
+                        "durationTimecode": "00:00:10;20",
+                        "durationSeconds": 10
+                    }
+                ],
+                "recapPreviousEpisode": [
+                    {
+                        "end": "01:01:38;17",
+                        "start": "01:00:10;12",
+                        "isRemovable": false,
+                        "durationTimecode": "00:01:28;05",
+                        "durationSeconds": 88
+                    }
+                ],
+                "openingSequence": [
+                    {
+                        "end": "01:01:49;10",
+                        "start": "01:01:38;18",
+                        "isRemovable": false,
+                        "durationTimecode": "00:00:10;22",
+                        "durationSeconds": 10
+                    }
+                ],
+                "teaseUpcomingEpisode": [
+                    {
+                        "end": "01:42:47;23",
+                        "start": "01:41:41;20",
+                        "isRemovable": false,
+                        "durationTimecode": "00:01:06;03",
+                        "durationSeconds": 66
+                    }
+                ],
+                "bump": [
+                    {
+                        "end": "01:42:50;18",
+                        "start": "01:42:47;24",
+                        "isRemovable": true,
+                        "durationTimecode": "00:00:02;24",
+                        "durationSeconds": 2
+                    }
+                ]
+            }
+        },
+        "leader": {
+            "start": "00:59:40;01",
+            "end": "00:59:57;00"
+        },
+        "creditBed": {
+            "start": "01:42:23;16",
+            "end": "01:42:47;23"
+        },
+        "originalSegments": {
+            "features": {
+                "leader": {
+                    "start": "00:59:40;01",
+                    "end": "00:59:57;00"
+                },
+                "creditBed": {
+                    "start": "01:42:23;16",
+                    "end": "01:42:47;23"
+                }
+            },
+            "segments": [
+                {
+                    "type": "Segment",
+                    "start": "01:00:00;00",
+                    "end": "01:10:06;11",
+                    "inPad": 0,
+                    "outPad": 0
+                },
+                {
+                    "type": "Segment",
+                    "start": "01:10:07;12",
+                    "end": "01:17:20;04",
+                    "inPad": 0,
+                    "outPad": 0
+                },
+                {
+                    "type": "Segment",
+                    "start": "01:17:21;05",
+                    "end": "01:26:43;02",
+                    "inPad": 0,
+                    "outPad": 0
+                },
+                {
+                    "type": "Segment",
+                    "start": "01:26:44;03",
+                    "end": "01:32:18;08",
+                    "inPad": 0,
+                    "outPad": 0
+                },
+                {
+                    "type": "Segment",
+                    "start": "01:32:19;09",
+                    "end": "01:37:26;24",
+                    "inPad": 0,
+                    "outPad": 0
+                },
+                {
+                    "type": "Segment",
+                    "start": "01:37:27;25",
+                    "end": "01:42:50;18",
+                    "inPad": 0,
+                    "outPad": 0
+                }
+            ],
+            "woos": []
+        }
+    },
+    "segmentsPaddingInd": true,
+    "segmentsPaddingType": "DCTC",
+    "regionOwner": "DCTC",
+    "internationalInd": false,
+    "networkOwner": {
+        "id": 695,
+        "name": "Discovery + US",
+        "type": "pds"
+    },
+    "caseId": 577989,
+    "caseUuid": "d63c7cbd-fc88-43ed-bdd1-46a46fa3de2e",
+    "caseAttributes": {
+        "caseSummary": "MP, 16:9, HD, CTC",
+        "caseTypes": {
+            "altNetworkInd": false,
+            "altTalentInd": false,
+            "complianceInd": false,
+            "durationChangeInd": false,
+            "evergreenInd": false,
+            "generalInd": false,
+            "internationalInd": false,
+            "legacyInd": false,
+            "multiplatformInd": true,
+            "nlPlatformInd": false,
+            "primeInd": false,
+            "promotionalInd": false,
+            "reformatInd": false,
+            "rightsRestrictedInd": false,
+            "sponsoredInd": false,
+            "supplyInd": false,
+            "temporaryInd": false,
+            "topicalUpdateInd": false,
+            "trailersInd": false
+        },
+        "caseParameters": {
+            "aspectRatio": "16:9",
+            "caseNotes": "",
+            "complianceNotes": "",
+            "format": "HD",
+            "platformName": "",
+            "platformSpecification": "",
+            "restrictedNotes": "",
+            "sponsorName": ""
+        },
+        "primaryCaseType": "multiplatform"
+    },
+    "objectId": 5353281,
+    "cutId": 5608817
+}

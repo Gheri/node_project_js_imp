@@ -1,0 +1,134 @@
+{
+  "header" : {
+    "operation" : "OPERATION_TYPE_UPDATE",
+    "producer" : "program-inventory",
+    "versionId" : "4.0.0",
+    "eventId" : "f6ed7ec1-def8-451e-aa52-824be5bca9d9",
+    "jobId" : "f6ed7ec1-def8-451e-aa52-824be5bca9f8",
+    "eventType" : "EVENT_TYPE_DATA_CHANGE",
+    "eventDateTime" : "2023-09-15T05:18:59.807326-04:00"
+  },
+  "edit" : {
+    "id" : {
+      "id" : "e9d842af-8eb0-457c-bb06-385d0f8db153",
+      "namespace" : "urn:wbd:identifier:program-inventory:id"
+    },
+    "entityClass" : "ENTITY_CLASS_EDIT",
+    "entityType" : "edit",
+    "alternateIds" : [ 
+      {
+        "id": "322396666.952.39.172",
+        "namespace": "urn:wbd:identifier:program-inventory:paid"
+      },  
+      {
+      "id" : "257E707H",
+      "namespace" : "urn:wbd:identifier:program-inventory:lsni-episode-number"
+    }, {
+      "id" : "3088108857",
+      "namespace" : "urn:wbd:identifier:hbo:pavi-id"
+    }, {
+      "id" : "dkWjUMChK",
+      "namespace" : "urn:wbd:identifier:eidr:edit-id"
+    }, {
+      "id" : "VICP257E707H",
+      "namespace" : "urn:wbd:identifier:program-inventory:show-code"
+    }, {
+      "id" : "UlwmzqVYd",
+      "namespace" : "urn:wbd:identifier:warnermedia:content-id"
+    }, {
+      "id" : "2445094001",
+      "namespace" : "urn:wbd:identifier:turner:edit-id"
+    }, {
+      "id" : "17665952",
+      "namespace" : "urn:wbd:identifier:program-inventory:scrid"
+    } ],
+    "credits" : [ {
+      "id" : {
+        "id" : "fbdca838-2471-4561-bc97-6434ac3aa717",
+        "namespace" : "urn:wbd:identifier:program-inventory:credit-id"
+      },
+      "personId" : {
+        "id" : "492ae525-b8ab-49d5-905f-ca2e4ca3e6ee",
+        "namespace" : "urn:wbd:identifier:program-inventory:person-id"
+      },
+      "aliasId" : {
+        "id" : "54e58cae-3164-4215-81ed-02df5324b762",
+        "namespace" : "urn:wbd:identifier:program-inventory:alias-id"
+      },
+      "role" : "actor",
+      "characters" : [ {
+        "language" : "en-US",
+        "value" : "US ironman"
+      } ],
+      "bylines" : [ {
+        "language" : "en-US",
+        "value" : "US byline"
+      } ],
+      "billingOrders" : [ {
+        "scope" : "global",
+        "value" : 1
+      } ]
+    } ],
+    "ratings" : [ {
+      "ratingAuthority" : "us-fcc-tv",
+      "classifier" : "TV-MA",
+      "contentDescriptors" : [ "L", "D" ]
+    } ],
+    "languages" : [ ],
+    "relationships" : [ {
+      "id" : {
+        "id" : "651da883-140e-4abc-821c-51a3bad49617",
+        "namespace" : "urn:wbd:identifier:program-inventory:relationship-id"
+      },
+      "relatedEntityId" : {
+        "id" : "b2d07e43-4971-41a8-b352-31ce60ac8f70",
+        "namespace" : "urn:wbd:identifier:program-inventory:id"
+      },
+      "relatedEntityClass" : "ENTITY_CLASS_PROGRAM",
+      "relatedEntityType" : "episode",
+      "type" : "is-part-of",
+      "attributes" : [ ]
+    } ],
+    "attributes" : [ {
+      "type" : "case-type",
+      "scope" : "global",
+      "value" : [ "general" ]
+    }, {
+      "type" : "primary-case-type",
+      "scope" : "global",
+      "value" : [ "general" ]
+    }, {
+      "type" : "content-advisory",
+      "scope" : "global",
+      "value" : [ "AC", "AL" ]
+    }, {
+      "type" : "actual-runtime",
+      "value" : [ "40271" ]
+    }, {
+      "type" : "approximate-runtime",
+      "value" : [ "36610" ]
+    }, {
+      "type" : "global-release-date",
+      "value" : [ "2023-09-13" ]
+    }, {
+      "type" : "controlling-network",
+      "value" : [ "FOOD" ]
+    } ],
+    "flags" : [ {
+      "type" : "kids-content-privacy",
+      "value" : true
+    }, {
+      "type" : "metadata-published",
+      "value" : true
+    } ],
+    "networks" : [ {
+      "type" : "NETWORK_TYPE_CONTROLLING_NETWORK",
+      "value" : [ "FOOD" ]
+    }, {
+      "type" : "NETWORK_TYPE_BORROWING_NETWORK",
+      "value" : [ "TBS-US", "ASUS", "HLN-CA", "CTN-US" ]
+    } ],
+    "createdDateTime" : "2023-09-15T05:18:07.667137-04:00",
+    "lastModifiedDateTime" : "2023-09-15T05:18:57.95463-04:00"
+  }
+}

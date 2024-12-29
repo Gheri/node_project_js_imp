@@ -1,0 +1,31 @@
+{
+  "name": "data-storage-api-node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A coding exercise for Node.js candidates at GitHub",
+  "repository": "https://github.com/github-interviews/data-storage-api-node",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest test.js",
+    "test-watch": "jest --watch --notify --notifyMode=change test.js"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bullmq": "3.12.0",
+    "config": "^3.3.6",
+    "dbly-linked-list": "0.3.5",
+    "express": "^4.17.1",
+    "heap": "0.2.7",
+    "http-status": "^1.5.0",
+    "loadash": "^1.0.0",
+    "lodash": "4.17.21",
+    "mongoose": "5.13.8",
+    "object-hash": "^2.2.0",
+    "readline-sync": "1.4.10"
+  },
+  "devDependencies": {
+    "jest": "25.5.4",
+    "supertest": "^4.0.2"
+  }
+}

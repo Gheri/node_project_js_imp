@@ -1,0 +1,3059 @@
+[
+    {
+        "_id": "5e6177e7df763da3bb55d109",
+        "Name": "Discovery Family Channel",
+        "Code": "DFC",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "DFC",
+                "SystemId": "8254",
+                "Name": "Discovery Family Channel"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d106",
+        "Name": "Current",
+        "Code": "CURRENT",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d112",
+        "Name": "ESPN Classic",
+        "Code": "ESPNC",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "ESPCL",
+                "SystemId": "7002",
+                "Name": "ESPN CLASSIC"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d115",
+        "Name": "Family",
+        "Code": "FAM",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d123",
+        "Name": "GRT",
+        "Code": "GRT",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "GRT",
+                "SystemId": "51",
+                "Name": "GRT"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d10d",
+        "Name": "DJCH",
+        "Code": "DJCH",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "DISJR",
+                "SystemId": "2991",
+                "Name": "DISNEY JR"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d128",
+        "Name": "HBO Signature",
+        "Code": "HB3",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": true,
+        "Systems": [
+            {
+                "SystemName": "Crossroad",
+                "Code": "HB3",
+                "Name": "HBO Signature"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Eastern Standard Time",
+                "FeedCd": "HDE",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDE"
+                    }
+                ]
+            },
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Pacific Standard Time",
+                "FeedCd": "HDW",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDW"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d10c",
+        "Name": "Disney XD",
+        "Code": "DXD",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "DXD",
+                "SystemId": "7611",
+                "Name": "Disney XD"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d0f9",
+        "Name": "CBS",
+        "Code": "CBS",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "CBS",
+                "SystemId": "11",
+                "Name": "CBS"
+            },
+            {
+                "SystemName": "Harbor",
+                "Code": "CBS",
+                "SystemId": "1081"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d11c",
+        "Name": "Fuse",
+        "Code": "FUSE",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "FUSE",
+                "SystemId": "7652",
+                "Name": "FUSE"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d0fc",
+        "Name": "CMT",
+        "Code": "CMT",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "CMT",
+                "SystemId": "6647",
+                "Name": "CMT"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d0f7",
+        "Name": "Bravo",
+        "Code": "BRAVO",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "BRVO",
+                "SystemId": "6526",
+                "Name": "BRAVO"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d0f2",
+        "Name": "Animal Planet",
+        "Code": "ANIML",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "APL",
+                "SystemId": "6605",
+                "Name": "ANIMAL PLANET"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d0ed",
+        "Name": "A & E",
+        "Code": "AETV",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "AEN",
+                "SystemId": "6218",
+                "Name": "A & E"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d0f8",
+        "Name": "Cartoon Network",
+        "IsTurnerNetwork": true,
+        "IsHBONetwork": false,
+        "Code": "TOON",
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "TOON",
+                "SystemId": "7241",
+                "Name": "THE CARTOON NETWORK"
+            },
+            {
+                "SystemName": "Scarlett",
+                "Code": "CTN",
+                "SystemId": "",
+                "Name": "Cartoon Network"
+            },
+            {
+                "SystemName": "ODT",
+                "Code": "Cartoon",
+                "SystemId": "",
+                "Name": "Cartoon Network"
+            },
+            {
+                "SystemName": "RightsLogic",
+                "Code": "All|AYAKM|Cartoon Network|CN Linear",
+                "SystemId": ""
+            },
+            {
+                "SystemName": "Crossroad",
+                "Code": "TOON",
+                "SystemId": "",
+                "Name": "Cartoon"
+            },
+            {
+                "SystemName": "Harbor",
+                "Code": "TOON",
+                "SystemId": "196"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "FeedCd": "N",
+                "TimeZone": "Eastern Standard Time",
+                "ScheduleId": "1",
+                "MaxReleaseSchedHarvestDate": "3000-01-01T05:00:00.000Z",
+                "LastUpdateDate": "2023-09-25T10:03:09.199Z",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "N"
+                    }
+                ]
+            }
+        ],
+        "ProcessedDatetimeUTC": "2023-09-25T10:03:09.327Z"
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d0fb",
+        "Name": "Cinemax",
+        "Code": "MAX",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "MAX",
+                "SystemId": "6513",
+                "Name": "MULTI-MAX"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d105",
+        "Name": "CTRC",
+        "Code": "CTRC",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d10f",
+        "Name": "Encore",
+        "Code": "ENCOR",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "ENCY",
+                "SystemId": "9130",
+                "Name": "STARZ ENCORE PRIMARY"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d114",
+        "Name": "ESPN2",
+        "Code": "ESP2",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "ESPN2",
+                "SystemId": "7287",
+                "Name": "ESPN2"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d118",
+        "Name": "Fox",
+        "Code": "FOX",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "FOX",
+                "SystemId": "21",
+                "Name": "FOX"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d11e",
+        "Name": "FXX",
+        "Code": "FXX",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "FXX",
+                "SystemId": "10041",
+                "Name": "FXX"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d12b",
+        "Name": "HBO Zone",
+        "Code": "HB6",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": true,
+        "Systems": [
+            {
+                "SystemName": "Crossroad",
+                "Code": "HB6",
+                "Name": "HBO Zone"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Eastern Standard Time",
+                "FeedCd": "HDE",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDE"
+                    }
+                ]
+            },
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Pacific Standard Time",
+                "FeedCd": "HDW",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDW"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d0f6",
+        "Name": "Bounce TV",
+        "Code": "BOUNCE",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "BOU",
+                "SystemId": "47",
+                "Name": "BOUNCE TV"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d0ef",
+        "Name": "Adult Swim",
+        "Code": "ADSM",
+        "IsTurnerNetwork": true,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "ADSM",
+                "SystemId": "4737",
+                "Name": "ADULT SWIM"
+            },
+            {
+                "SystemName": "ODT",
+                "Code": "AS",
+                "Name": "Adult Swim"
+            },
+            {
+                "SystemName": "Harbor",
+                "Code": "ADULT SWIM",
+                "SystemId": "9958"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d101",
+        "Name": "CNN International",
+        "IsTurnerNetwork": true,
+        "IsHBONetwork": false,
+        "Code": "CNNI",
+        "Systems": [
+            {
+                "SystemName": "Scarlett",
+                "Code": "CNNI",
+                "SystemId": "",
+                "Name": "CNN International"
+            },
+            {
+                "SystemName": "ODT",
+                "Code": "CNNI",
+                "SystemId": "",
+                "Name": "CNN International"
+            },
+            {
+                "SystemName": "RightsLogic",
+                "Code": "All|News|CNNi|CNNi Linear",
+                "SystemId": ""
+            },
+            {
+                "SystemName": "Crossroad",
+                "Code": "CNNE",
+                "SystemId": "",
+                "Name": "CNNI Europe"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "FeedCd": "NA",
+                "TimeZone": "Eastern Standard Time",
+                "ScheduleId": "93",
+                "MaxReleaseSchedHarvestDate": "2040-01-01T05:00:00.000Z",
+                "LastUpdateDate": "2021-09-09T18:58:26.148Z",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "NA"
+                    }
+                ]
+            },
+            {
+                "FeedCd": "EU",
+                "TimeZone": "Romance Standard Time",
+                "ScheduleId": "90",
+                "MaxReleaseSchedHarvestDate": "2040-01-01T05:00:00.000Z",
+                "LastUpdateDate": "2021-09-09T18:58:26.148Z",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "EU"
+                    }
+                ]
+            },
+            {
+                "FeedCd": "LA",
+                "TimeZone": "Argentina Standard Time",
+                "ScheduleId": "91",
+                "MaxReleaseSchedHarvestDate": "2040-01-01T05:00:00.000Z",
+                "LastUpdateDate": "2021-09-09T18:58:26.148Z",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "LA"
+                    }
+                ]
+            },
+            {
+                "FeedCd": "AS",
+                "TimeZone": "China Standard Time",
+                "ScheduleId": "92",
+                "MaxReleaseSchedHarvestDate": "2040-01-01T05:00:00.000Z",
+                "LastUpdateDate": "2021-09-09T18:58:26.148Z",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "AS"
+                    }
+                ]
+            },
+            {
+                "FeedCd": "SA",
+                "TimeZone": "Eastern Standard Time",
+                "ScheduleId": "1311",
+                "MaxReleaseSchedHarvestDate": "2040-01-01T05:00:00.000Z",
+                "LastUpdateDate": "2023-08-16T14:30:00.000Z",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "SA",
+                        "FeedName": "South Asia"
+                    }
+                ]
+            }
+        ],
+        "ProcessedDatetimeUTC": "2021-09-09T18:58:26.557Z"
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d117",
+        "Name": "Food Network",
+        "Code": "FOOD",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "FOOD",
+                "SystemId": "7304",
+                "Name": "FOOD NETWORK"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d121",
+        "Name": "GameTap",
+        "Code": "GTAP",
+        "IsTurnerNetwork": true,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Scarlett",
+                "Code": "GTAP",
+                "Name": "GameTap"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d129",
+        "Name": "HBO Family",
+        "Code": "HB4",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": true,
+        "Systems": [
+            {
+                "SystemName": "Crossroad",
+                "Code": "HB4",
+                "Name": "HBO Family"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Eastern Standard Time",
+                "FeedCd": "HDE",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDE"
+                    }
+                ]
+            },
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Pacific Standard Time",
+                "FeedCd": "HDW",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDW"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d0ff",
+        "Name": "CNN Broadcast Television Network",
+        "Code": "CBTN",
+        "IsTurnerNetwork": true,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Scarlett",
+                "Code": "CBTN",
+                "Name": "CBTN"
+            },
+            {
+                "SystemName": "Crossroad",
+                "Code": "CBTN",
+                "Name": "CNN Broadcast Television Network"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d10e",
+        "Name": "E!",
+        "Code": "E",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "ENT",
+                "SystemId": "6384",
+                "Name": "E!"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d111",
+        "Name": "ESPN",
+        "Code": "ESPN",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "ESPN",
+                "SystemId": "6204",
+                "Name": "ESPN"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d0fa",
+        "Name": "Chiller",
+        "Code": "CHILLR",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "CHIL",
+                "SystemId": "2099",
+                "Name": "CHILLER"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d0f4",
+        "Name": "Black Entertainment Television",
+        "Code": "BET",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "BET",
+                "SystemId": "6200",
+                "Name": "Black Entertainment TV"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d11f",
+        "Name": "fyi",
+        "Code": "FYI",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "FYI",
+                "SystemId": "8338",
+                "Name": "FYI"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d122",
+        "Name": "Grit",
+        "Code": "GRIT",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d126",
+        "Name": "HBO",
+        "Code": "HB1",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": true,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "HBOM",
+                "SystemId": "9100",
+                "Name": "HBO PRIME"
+            },
+            {
+                "SystemName": "Crossroad",
+                "Code": "HB1",
+                "Name": "HBO"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Eastern Standard Time",
+                "FeedCd": "HDE",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDE"
+                    }
+                ]
+            },
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Pacific Standard Time",
+                "FeedCd": "HDW",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDW"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d127",
+        "Name": "HBO2",
+        "Code": "HB2",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": true,
+        "Systems": [
+            {
+                "SystemName": "Crossroad",
+                "Code": "HB2",
+                "Name": "HBO2"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Eastern Standard Time",
+                "FeedCd": "HDE",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDE"
+                    }
+                ]
+            },
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Pacific Standard Time",
+                "FeedCd": "HDW",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDW"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d103",
+        "Name": "Comedy Central",
+        "Code": "COMDY",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "CMDY",
+                "SystemId": "7133",
+                "Name": "COMEDY CENTRAL"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d12a",
+        "Name": "HBO Comedy",
+        "Code": "HB5",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": true,
+        "Systems": [
+            {
+                "SystemName": "Crossroad",
+                "Code": "HB5",
+                "Name": "HBO Comedy"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Eastern Standard Time",
+                "FeedCd": "HDE",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDE"
+                    }
+                ]
+            },
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Pacific Standard Time",
+                "FeedCd": "HDW",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDW"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d104",
+        "Name": "Cozi TV",
+        "Code": "COZITV",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "COZ",
+                "SystemId": "49",
+                "Name": "COZI"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d0ee",
+        "Name": "ABC",
+        "Code": "ABC",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "ABC",
+                "SystemId": "10",
+                "Name": "ABC"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d107",
+        "Name": "CW",
+        "Code": "CW",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "CW",
+                "SystemId": "38",
+                "Name": "CW"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d10a",
+        "Name": "Discovery Health Channel",
+        "Code": "DHLTH",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d10b",
+        "Name": "Disney Channel",
+        "Code": "DISN",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "DSNY",
+                "SystemId": "6522",
+                "Name": "DISNEY CHANNEL"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d12c",
+        "Name": "HBO Latino",
+        "Code": "HB7",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": true,
+        "Systems": [
+            {
+                "SystemName": "Crossroad",
+                "Code": "HB7",
+                "Name": "HBO Latino"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Eastern Standard Time",
+                "FeedCd": "HDE",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDE"
+                    }
+                ]
+            },
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Pacific Standard Time",
+                "FeedCd": "HDW",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDW"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d100",
+        "Name": "CNN en Espanol",
+        "IsTurnerNetwork": true,
+        "IsHBONetwork": false,
+        "Code": "CNNE",
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "CNNE",
+                "SystemId": "7371",
+                "Name": "CNN EN ESPANOL"
+            },
+            {
+                "SystemName": "Scarlett",
+                "Code": "CNNE",
+                "SystemId": "",
+                "Name": "CNN Espanol"
+            },
+            {
+                "SystemName": "ODT",
+                "Code": "CNNE",
+                "SystemId": "",
+                "Name": "CNN Espanol"
+            },
+            {
+                "SystemName": "Harbor",
+                "Code": "ESPUS",
+                "SystemId": "9983"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "FeedCd": "ES",
+                "TimeZone": "Eastern Standard Time",
+                "ScheduleId": "1845",
+                "MaxReleaseSchedHarvestDate": "2040-01-01T05:00:00.000Z",
+                "LastUpdateDate": "2021-09-09T19:03:08.566Z",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "ES"
+                    }
+                ]
+            },
+            {
+                "FeedCd": "MX",
+                "TimeZone": "Central Standard Time (Mexico)",
+                "ScheduleId": "1847",
+                "MaxReleaseSchedHarvestDate": "2040-01-01T05:00:00.000Z",
+                "LastUpdateDate": "2021-09-09T19:03:08.566Z",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "MX",
+                        "FeedName": "Mexico"
+                    }
+                ]
+            },
+            {
+                "FeedCd": "SP",
+                "TimeZone": "Argentina Standard Time",
+                "ScheduleId": "1850",
+                "MaxReleaseSchedHarvestDate": "2040-01-01T05:00:00.000Z",
+                "LastUpdateDate": "2021-09-09T19:03:08.566Z",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "SP"
+                    }
+                ]
+            }
+        ],
+        "ProcessedDatetimeUTC": "2021-09-09T19:03:08.798Z"
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d110",
+        "Name": "Escape",
+        "Code": "ESCAPE",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "ESC",
+                "SystemId": "50",
+                "Name": "Escape"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d113",
+        "Name": "ESPNews",
+        "Code": "ENN",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "ENN",
+                "SystemId": "7474",
+                "Name": "ESPNEWS"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d102",
+        "Name": "CNNA",
+        "Code": "CNNA",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d0f3",
+        "Name": "BBC America",
+        "Code": "BBCA",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "BBCA",
+                "SystemId": "8250",
+                "Name": "BBC-AMERICA"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d116",
+        "Name": "FMC",
+        "Code": "FMC",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d119",
+        "Name": "Fox News Channel",
+        "Code": "FNC",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "FOXNC",
+                "SystemId": "7401",
+                "Name": "FOX NEWS CHANNEL"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d11a",
+        "Name": "Fox Sports 1",
+        "Code": "FS1",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "FS1",
+                "SystemId": "7443",
+                "Name": "FOX SPORTS 1"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d11b",
+        "Name": "Fox Sports 2",
+        "Code": "FS2",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "FS2",
+                "SystemId": "9042",
+                "Name": "FOX SPORTS 2"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d11d",
+        "Name": "FX",
+        "Code": "FX",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "FX",
+                "SystemId": "7328",
+                "Name": "FX"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d124",
+        "Name": "Hallmark Channel",
+        "Code": "HALLMRK",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "HALL",
+                "SystemId": "6485",
+                "Name": "HALLMARK CHANNEL"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d0f5",
+        "Name": "Boomerang",
+        "IsTurnerNetwork": true,
+        "IsHBONetwork": false,
+        "Code": "BOO",
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "BOOM",
+                "SystemId": "9304",
+                "Name": "Boomerang"
+            },
+            {
+                "SystemName": "Scarlett",
+                "Code": "BOO",
+                "SystemId": "",
+                "Name": "Boomerang"
+            },
+            {
+                "SystemName": "ODT",
+                "Code": "Boomerang",
+                "SystemId": "",
+                "Name": "Boomerang"
+            },
+            {
+                "SystemName": "RightsLogic",
+                "Code": "All|AYAKM|Boomerang|Boomerang Linear",
+                "SystemId": ""
+            },
+            {
+                "SystemName": "Crossroad",
+                "Code": "BOOM",
+                "SystemId": "",
+                "Name": "Boomerang"
+            },
+            {
+                "SystemName": "Harbor",
+                "Code": "BOOMERANG",
+                "SystemId": "1124"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "FeedCd": "N",
+                "TimeZone": "Eastern Standard Time",
+                "ScheduleId": "15",
+                "MaxReleaseSchedHarvestDate": "3000-01-01T05:00:00.000Z",
+                "LastUpdateDate": "2023-09-25T10:03:09.199Z",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "N"
+                    }
+                ]
+            }
+        ],
+        "ProcessedDatetimeUTC": "2023-09-25T10:03:09.417Z"
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d0fd",
+        "Name": "CNBC",
+        "Code": "CNBC",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "CNBC",
+                "SystemId": "6521",
+                "Name": "CNBC"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d0fe",
+        "Name": "CNN",
+        "IsTurnerNetwork": true,
+        "IsHBONetwork": false,
+        "Code": "CNN",
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "CNN",
+                "SystemId": "6202",
+                "Name": "CNN"
+            },
+            {
+                "SystemName": "Scarlett",
+                "Code": "CNN",
+                "SystemId": "",
+                "Name": "CNN"
+            },
+            {
+                "SystemName": "ODT",
+                "Code": "CNN",
+                "SystemId": "",
+                "Name": "CNN"
+            },
+            {
+                "SystemName": "RightsLogic",
+                "Code": "All|News|CNN|CNN Linear",
+                "SystemId": ""
+            },
+            {
+                "SystemName": "Crossroad",
+                "Code": "CNN",
+                "SystemId": "",
+                "Name": "CNN"
+            },
+            {
+                "SystemName": "Harbor",
+                "Code": "CNN",
+                "SystemId": "325"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "FeedCd": "N",
+                "TimeZone": "Eastern Standard Time",
+                "ScheduleId": "164",
+                "MaxReleaseSchedHarvestDate": "3000-01-01T05:00:00.000Z",
+                "LastUpdateDate": "2024-02-15T15:36:33.183Z",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "N"
+                    }
+                ]
+            },
+            {
+                "FeedCd": "INT",
+                "TimeZone": "Eastern Standard Time",
+                "ScheduleId": "31017",
+                "MaxReleaseSchedHarvestDate": "2023-10-01T04:00:00.000Z",
+                "LastUpdateDate": "2023-09-21T13:42:49.191Z",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "INT"
+                    }
+                ]
+            },
+            {
+                "FeedCd": "JP",
+                "TimeZone": "Eastern Standard Time",
+                "ScheduleId": "2326",
+                "MaxReleaseSchedHarvestDate": "2023-10-01T04:00:00.000Z",
+                "LastUpdateDate": "2023-09-21T13:42:49.191Z",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "JP",
+                        "FeedName": "Japan"
+                    }
+                ]
+            }
+        ],
+        "ProcessedDatetimeUTC": "2024-02-15T15:36:33.203Z"
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d125",
+        "Name": "HBO",
+        "Code": "HBO",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "HBOM",
+                "SystemId": "9100",
+                "Name": "HBO PRIME"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d0f0",
+        "Name": "Airport Network",
+        "IsTurnerNetwork": true,
+        "IsHBONetwork": false,
+        "Code": "APN",
+        "Systems": [
+            {
+                "SystemName": "Scarlett",
+                "Code": "APN",
+                "SystemId": "",
+                "Name": "CNN Airport"
+            },
+            {
+                "SystemName": "Crossroad",
+                "Code": "ARPT",
+                "SystemId": "",
+                "Name": "Airport"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "FeedCd": "N",
+                "TimeZone": "Eastern Standard Time",
+                "ScheduleId": "166",
+                "MaxReleaseSchedHarvestDate": "2021-12-31T05:00:00.000Z",
+                "LastUpdateDate": "2020-06-17T17:29:51.175Z",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "N"
+                    }
+                ]
+            }
+        ],
+        "ProcessedDatetimeUTC": "2020-06-17T17:29:51.195Z"
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d0f1",
+        "Name": "AMC",
+        "Code": "AMC",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "AMC",
+                "SystemId": "6593",
+                "Name": "AMC"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d108",
+        "Name": "Discovery Channel",
+        "Code": "DSC",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "DISC",
+                "SystemId": "6530",
+                "Name": "DISCOVERY CHANNEL"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d120",
+        "Name": "G4",
+        "Code": "G4",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "G4",
+                "SystemId": "8333",
+                "Name": "G4"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d14e",
+        "Name": "Nickelodeon",
+        "Code": "NIK",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "NICK",
+                "SystemId": "6212",
+                "Name": "NICKELODEON"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d142",
+        "Name": "Military Channel",
+        "Code": "MILT",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d14a",
+        "Name": "NBC",
+        "Code": "NBC",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "NBC",
+                "SystemId": "12",
+                "Name": "NBC"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d179",
+        "Name": "Women's Entertainment",
+        "Code": "WE",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "WETV",
+                "SystemId": "7516",
+                "Name": "WEtv"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d136",
+        "Name": "Lifetime",
+        "Code": "LIFE",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "LIF",
+                "SystemId": "6196",
+                "Name": "LIFETIME"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d14b",
+        "Name": "NBC Sports",
+        "Code": "NBCSN",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "NBCSN",
+                "SystemId": "6275",
+                "Name": "NBC Sports Net"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d132",
+        "Name": "HUB",
+        "Code": "HUB",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d13c",
+        "Name": "Thriller MAX",
+        "Code": "MA4",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": true,
+        "Systems": [
+            {
+                "SystemName": "Crossroad",
+                "Code": "MA4",
+                "Name": "Thriller MAX"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Eastern Standard Time",
+                "FeedCd": "HDE",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDE"
+                    }
+                ]
+            },
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Pacific Standard Time",
+                "FeedCd": "HDW",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDW"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d13d",
+        "Name": "5 Star MAX",
+        "Code": "MA5",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": true,
+        "Systems": [
+            {
+                "SystemName": "Crossroad",
+                "Code": "MA5",
+                "Name": "5 Star MAX"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Eastern Standard Time",
+                "FeedCd": "HDE",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDE"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d145",
+        "Name": "MTV Classic",
+        "Code": "MTVCLAS",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "MTVC",
+                "SystemId": "8512",
+                "Name": "MTV CLASSIC"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d148",
+        "Name": "National Geographic Channel",
+        "Code": "NGC",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "NGC",
+                "SystemId": "9258",
+                "Name": "NATIONAL GEOGRAPHIC CHANNEL"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d169",
+        "Name": "Turner Classic Movies",
+        "IsTurnerNetwork": true,
+        "IsHBONetwork": false,
+        "Code": "TCM",
+        "Systems": [
+            {
+                "SystemName": "Scarlett",
+                "Code": "TCM",
+                "SystemId": "",
+                "Name": "Turner Classic Movies"
+            },
+            {
+                "SystemName": "ODT",
+                "Code": "TCM",
+                "SystemId": "",
+                "Name": "TCM"
+            },
+            {
+                "SystemName": "RightsLogic",
+                "Code": "All|Entertainment|TCM USA|TCM USA Linear",
+                "SystemId": ""
+            },
+            {
+                "SystemName": "Crossroad",
+                "Code": "TCM",
+                "SystemId": "",
+                "Name": "Turner Classic Movies"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "FeedCd": "N",
+                "TimeZone": "Eastern Standard Time",
+                "ScheduleId": "5",
+                "MaxReleaseSchedHarvestDate": "2024-06-30T04:00:00.000Z",
+                "LastUpdateDate": "2024-04-16T15:58:45.486Z",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "N"
+                    },
+                    {
+                        "SystemName": "RightsLogic",
+                        "FeedCd": "All|Entertainment|TCM USA|TCM USA Linear"
+                    }
+                ]
+            },
+            {
+                "FeedCd": "CAN",
+                "TimeZone": "Eastern Standard Time",
+                "ScheduleId": "103",
+                "MaxReleaseSchedHarvestDate": "2024-05-31T04:00:00.000Z",
+                "LastUpdateDate": "2024-03-21T19:38:58.176Z",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "CAN",
+                        "FeedName": "Canada"
+                    },
+                    {
+                        "SystemName": "RightsLogic",
+                        "FeedCd": "All|Entertainment|TCM Canada|TCM Canada Linear"
+                    }
+                ]
+            }
+        ],
+        "ProcessedDatetimeUTC": "2024-04-16T15:58:45.512Z"
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d16b",
+        "Name": "Turner Kids",
+        "Code": "TIKID",
+        "IsTurnerNetwork": true,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Scarlett",
+                "Code": "TIKID",
+                "Name": "Turner Kids"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d172",
+        "Name": "UPN",
+        "Code": "UPN",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "UPN",
+                "SystemId": "25",
+                "Name": "UPN"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d173",
+        "Name": "USA Network",
+        "Code": "USA",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "USA",
+                "SystemId": "6217",
+                "Name": "USA NETWORK"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d151",
+        "Name": "Oprah Winfrey Network",
+        "Code": "OWN",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "OWN",
+                "SystemId": "8255",
+                "Name": "OPRAH WINFREY NETWORK"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d15c",
+        "Name": "Style",
+        "Code": "STYLE",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d167",
+        "Name": "TRIO",
+        "Code": "TRIO",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d130",
+        "Name": "History",
+        "Code": "HISTORY",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "HIST",
+                "SystemId": "8908",
+                "Name": "HISTORY"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d133",
+        "Name": "I Channel",
+        "Code": "I",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "IND",
+                "SystemId": "7",
+                "Name": "INDEPENDENTS (EXCLUDING FOX, TBS, SUPERSTATIONS)"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d13f",
+        "Name": "OuterMAX",
+        "Code": "MA7",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": true,
+        "Systems": [
+            {
+                "SystemName": "Crossroad",
+                "Code": "MA7",
+                "Name": "OuterMAX"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Eastern Standard Time",
+                "FeedCd": "HDE",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDE"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d152",
+        "Name": "Oxygen",
+        "Code": "OXYGN",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "OXYG",
+                "SystemId": "8444",
+                "Name": "OXYGEN MEDIA"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d154",
+        "Name": "Reelz",
+        "Code": "REELZ",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "RLZC",
+                "SystemId": "2680",
+                "Name": "REELZCHANNEL"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d15b",
+        "Name": "Starz",
+        "Code": "STARZ",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "STRZ",
+                "SystemId": "7306",
+                "Name": "STARZ"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d16e",
+        "Name": "TV Guide Channel",
+        "Code": "TVG",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d175",
+        "Name": "VICELAND",
+        "Code": "VICE",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "VICE",
+                "SystemId": "8339",
+                "Name": "Viceland"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d131",
+        "Name": "Hallmark Movies & Mysteries",
+        "Code": "HLMC",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "HMM",
+                "SystemId": "2315",
+                "Name": "HALLMARK MOVIE & MYSTERIES"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d137",
+        "Name": "Lifetime Movie Network",
+        "Code": "LMN",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "LMN",
+                "SystemId": "8336",
+                "Name": "LIFETIME MOVIE NETWORK"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d138",
+        "Name": "LOGO",
+        "Code": "LOGO",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "LOGO",
+                "SystemId": "4443",
+                "Name": "LOGO"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d144",
+        "Name": "MTV",
+        "Code": "MTV",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "MTV",
+                "SystemId": "6198",
+                "Name": "MTV: MUSIC TELEVISION"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d14f",
+        "Name": "Nicktoons",
+        "Code": "NIKTON",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "NKTNS",
+                "SystemId": "9963",
+                "Name": "NICK TOONS"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d157",
+        "Name": "SLEUTH",
+        "Code": "SLEUTH",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d158",
+        "Name": "Soap",
+        "Code": "SOAP",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "SOAP",
+                "SystemId": "8443",
+                "Name": "SOAPNET"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d165",
+        "Name": "TOOND",
+        "Code": "TOOND",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d12d",
+        "Name": "HLN",
+        "IsTurnerNetwork": true,
+        "IsHBONetwork": false,
+        "Code": "HDLN",
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "HLN",
+                "SystemId": "6199",
+                "Name": "HLN"
+            },
+            {
+                "SystemName": "Scarlett",
+                "Code": "HDLN",
+                "SystemId": "",
+                "Name": "CNN Headline News"
+            },
+            {
+                "SystemName": "ODT",
+                "Code": "Headline",
+                "SystemId": "",
+                "Name": "Headline News"
+            },
+            {
+                "SystemName": "RightsLogic",
+                "Code": "All|News|HLN|HLN Linear",
+                "SystemId": ""
+            },
+            {
+                "SystemName": "Crossroad",
+                "Code": "HDLN",
+                "SystemId": "",
+                "Name": "HLN"
+            },
+            {
+                "SystemName": "Harbor",
+                "Code": "HDLN",
+                "SystemId": "410"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "FeedCd": "N",
+                "TimeZone": "Eastern Standard Time",
+                "ScheduleId": "168",
+                "MaxReleaseSchedHarvestDate": "3000-01-01T05:00:00.000Z",
+                "LastUpdateDate": "2023-09-25T10:03:09.199Z",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "N"
+                    }
+                ]
+            }
+        ],
+        "ProcessedDatetimeUTC": "2023-09-25T10:03:09.596Z"
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d13a",
+        "Name": "More MAX",
+        "Code": "MA2",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": true,
+        "Systems": [
+            {
+                "SystemName": "Crossroad",
+                "Code": "MA2",
+                "Name": "More MAX"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Eastern Standard Time",
+                "FeedCd": "HDE",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDE"
+                    }
+                ]
+            },
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Pacific Standard Time",
+                "FeedCd": "HDW",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDW"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d15d",
+        "Name": "Sundance TV",
+        "Code": "SUND",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "SUND",
+                "SystemId": "7602",
+                "Name": "SUNDANCE TV"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d164",
+        "Name": "TNCK",
+        "Code": "TNCK",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d166",
+        "Name": "Travel Channel",
+        "Code": "TRAV",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "TRAV",
+                "SystemId": "6678",
+                "Name": "TRAVEL CHANNEL"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d16f",
+        "Name": "TVLand",
+        "Code": "TVLND",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "TVL",
+                "SystemId": "7838",
+                "Name": "TV LAND"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d174",
+        "Name": "VH1",
+        "Code": "VH1",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "VH1",
+                "SystemId": "6546",
+                "Name": "VH1"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d176",
+        "Name": "WB Channel",
+        "Code": "WB",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "WB",
+                "SystemId": "22",
+                "Name": "WB"
+            },
+            {
+                "SystemName": "Scarlett",
+                "Code": "WB",
+                "Name": "Warner Brothers"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d140",
+        "Name": "MAX Latino",
+        "Code": "MA8",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": true,
+        "Systems": [
+            {
+                "SystemName": "Crossroad",
+                "Code": "MA8",
+                "Name": "MAX Latino"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Eastern Standard Time",
+                "FeedCd": "HDE",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDE"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d150",
+        "Name": "Ovation",
+        "Code": "OVATIO",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "OVTN",
+                "SystemId": "7653",
+                "Name": "Ovation"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d159",
+        "Name": "Spike",
+        "Code": "SPIKE",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d12e",
+        "Name": "HGTV",
+        "Code": "HGTV",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "HGTV",
+                "SystemId": "8920",
+                "Name": "HOME & GARDEN TV"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d12f",
+        "Name": "Histi",
+        "Code": "HISTI",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d139",
+        "Name": "MAX",
+        "Code": "MA1",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": true,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "MAX",
+                "SystemId": "6513",
+                "Name": "MULTI-MAX"
+            },
+            {
+                "SystemName": "Crossroad",
+                "Code": "MA1",
+                "Name": "MAX"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Eastern Standard Time",
+                "FeedCd": "HDE",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDE"
+                    }
+                ]
+            },
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Pacific Standard Time",
+                "FeedCd": "HDW",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDW"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d15f",
+        "Name": "Synd",
+        "Code": "SYND",
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Scarlett",
+                "Code": "SYND",
+                "Name": "Synd"
+            },
+            {
+                "SystemName": "Crossroad",
+                "Code": "SYND",
+                "Name": "SYND"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d163",
+        "Name": "TMC",
+        "Code": "TMC",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "TMC1",
+                "SystemId": "9527",
+                "Name": "TMC PRIME"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d13b",
+        "Name": "Action MAX",
+        "Code": "MA3",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": true,
+        "Systems": [
+            {
+                "SystemName": "Crossroad",
+                "Code": "MA3",
+                "Name": "Action MAX"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Eastern Standard Time",
+                "FeedCd": "HDE",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDE"
+                    }
+                ]
+            },
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Pacific Standard Time",
+                "FeedCd": "HDW",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDW"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d161",
+        "Name": "The Weather Channel",
+        "Code": "TWC",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "TWC",
+                "SystemId": "6523",
+                "Name": "THE WEATHER CHANNEL"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d177",
+        "Name": "WGN America",
+        "Code": "WGN",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "WGNA",
+                "SystemId": "6788",
+                "Name": "WGN AMERICA"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d178",
+        "Name": "WGNASD",
+        "Code": "WGNASD",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d134",
+        "Name": "IFC",
+        "Code": "IFC",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "IFC",
+                "SystemId": "6111",
+                "Name": "IFC TV"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d135",
+        "Name": "INSP",
+        "Code": "INSP",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "INSP",
+                "SystemId": "6632",
+                "Name": "INSP"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d143",
+        "Name": "MSNBC",
+        "Code": "MSNBC",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "MSNBC",
+                "SystemId": "7801",
+                "Name": "MSNBC"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d149",
+        "Name": "NBATV",
+        "IsTurnerNetwork": true,
+        "IsHBONetwork": false,
+        "Code": "NBATV",
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "NBAT",
+                "SystemId": "9772",
+                "Name": "NBA-TV"
+            },
+            {
+                "SystemName": "Scarlett",
+                "Code": "NBATV",
+                "SystemId": "",
+                "Name": "NBA TV"
+            },
+            {
+                "SystemName": "ODT",
+                "Code": "NBA",
+                "SystemId": "",
+                "Name": "NBATV"
+            },
+            {
+                "SystemName": "Crossroad",
+                "Code": "NBATV",
+                "SystemId": "",
+                "Name": "NBA TV"
+            },
+            {
+                "SystemName": "Harbor",
+                "Code": "NBA TV",
+                "SystemId": "1019"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "FeedCd": "HD",
+                "TimeZone": "Eastern Standard Time",
+                "ScheduleId": "609",
+                "MaxReleaseSchedHarvestDate": "3000-01-01T05:00:00.000Z",
+                "LastUpdateDate": "2023-09-25T10:03:09.199Z",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "HD"
+                    }
+                ]
+            },
+            {
+                "FeedCd": "N",
+                "TimeZone": "Eastern Standard Time",
+                "ScheduleId": "605",
+                "MaxReleaseSchedHarvestDate": "2009-09-13T04:00:00.000Z",
+                "LastUpdateDate": "2016-06-03T16:35:04.011Z",
+                "IsPrimary": false,
+                "Systems": null
+            }
+        ],
+        "ProcessedDatetimeUTC": "2023-09-25T10:03:09.685Z"
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d16d",
+        "Name": "Turner South",
+        "Code": "TSO",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "TSOU",
+                "SystemId": "8533",
+                "Name": "TURNER SOUTH"
+            },
+            {
+                "SystemName": "Scarlett",
+                "Code": "TSO",
+                "Name": "Turner South"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d13e",
+        "Name": "MovieMAX",
+        "Code": "MA6",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": true,
+        "Systems": [
+            {
+                "SystemName": "Crossroad",
+                "Code": "MA6",
+                "Name": "MovieMAX"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "MaxReleaseSchedHarvestDate": "2050-12-31T05:00:00.000Z",
+                "TimeZone": "Eastern Standard Time",
+                "FeedCd": "HDE",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Crossroad",
+                        "FeedCd": "HDE"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d141",
+        "Name": "MeTV",
+        "Code": "METVN",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "MET",
+                "SystemId": "48",
+                "Name": "MeTV"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d14c",
+        "Name": "Nick at Nite",
+        "Code": "NAN",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "NAN",
+                "SystemId": "9043",
+                "Name": "NICK AT NITE"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d162",
+        "Name": "TLC",
+        "Code": "TLC",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "TLC",
+                "SystemId": "6635",
+                "Name": "TLC"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d168",
+        "Name": "truTV",
+        "IsTurnerNetwork": true,
+        "IsHBONetwork": false,
+        "Code": "TRUTV",
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "TRU",
+                "SystemId": "7183",
+                "Name": "TRU TV"
+            },
+            {
+                "SystemName": "Scarlett",
+                "Code": "TRUTV",
+                "SystemId": "",
+                "Name": "truTV"
+            },
+            {
+                "SystemName": "ODT",
+                "Code": "TRUTV",
+                "SystemId": "",
+                "Name": "truTV"
+            },
+            {
+                "SystemName": "RightsLogic",
+                "Code": "All|Entertainment|TruTV|TruTV Linear",
+                "SystemId": ""
+            },
+            {
+                "SystemName": "Crossroad",
+                "Code": "TRU",
+                "SystemId": "",
+                "Name": "TruTV"
+            },
+            {
+                "SystemName": "Harbor",
+                "Code": "TRU",
+                "SystemId": "1015"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "FeedCd": "N",
+                "TimeZone": "Eastern Standard Time",
+                "ScheduleId": "123",
+                "MaxReleaseSchedHarvestDate": "3000-01-01T05:00:00.000Z",
+                "LastUpdateDate": "2023-09-25T10:03:09.199Z",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "N"
+                    }
+                ]
+            },
+            {
+                "FeedCd": "WE",
+                "TimeZone": "Pacific Standard Time",
+                "ScheduleId": "2305",
+                "MaxReleaseSchedHarvestDate": "2024-02-29T08:00:00.000Z",
+                "LastUpdateDate": "2024-01-02T15:37:43.192Z",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "WE"
+                    }
+                ]
+            }
+        ],
+        "ProcessedDatetimeUTC": "2024-01-02T15:37:43.214Z"
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d153",
+        "Name": "Peachtree TV",
+        "Code": "WPCH",
+        "IsTurnerNetwork": true,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Scarlett",
+                "Code": "WPCH",
+                "Name": "Peachtree TV"
+            },
+            {
+                "SystemName": "ODT",
+                "Code": "Peachtree",
+                "Name": "Peachtree TV"
+            },
+            {
+                "SystemName": "Crossroad",
+                "Code": "WPCH",
+                "Name": "WPCH"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "LastUpdateDate": "2016-06-03T16:35:04.011Z",
+                "MaxReleaseSchedHarvestDate": "2011-05-31T04:00:00.000Z",
+                "ScheduleId": "303",
+                "TimeZone": "Eastern Standard Time",
+                "FeedCd": "L",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d155",
+        "Name": "Science Channel",
+        "Code": "SCICH",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "SCI",
+                "SystemId": "8253",
+                "Name": "SCIENCE"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d156",
+        "Name": "Showtime",
+        "Code": "SHOW",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "SHOW",
+                "SystemId": "6511",
+                "Name": "SHOWTIME"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d16c",
+        "Name": "Turner Network Television",
+        "IsTurnerNetwork": true,
+        "IsHBONetwork": false,
+        "Code": "TNT",
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "TNT",
+                "SystemId": "6390",
+                "Name": "TURNER NETWORK TELEVISION"
+            },
+            {
+                "SystemName": "Scarlett",
+                "Code": "TNT",
+                "SystemId": "",
+                "Name": "Turner Network Television"
+            },
+            {
+                "SystemName": "ODT",
+                "Code": "TNT",
+                "SystemId": "",
+                "Name": "TNT"
+            },
+            {
+                "SystemName": "RightsLogic",
+                "Code": "All|Entertainment|TNT|TNT Linear",
+                "SystemId": ""
+            },
+            {
+                "SystemName": "Crossroad",
+                "Code": "TNT",
+                "SystemId": "",
+                "Name": "TNT"
+            },
+            {
+                "SystemName": "Harbor",
+                "Code": "TNT",
+                "SystemId": "30"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "FeedCd": "E",
+                "TimeZone": "Eastern Standard Time",
+                "ScheduleId": "7",
+                "MaxReleaseSchedHarvestDate": "3000-01-01T05:00:00.000Z",
+                "LastUpdateDate": "2023-09-25T10:03:09.199Z",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "E"
+                    }
+                ]
+            },
+            {
+                "FeedCd": "W",
+                "TimeZone": "Pacific Standard Time",
+                "ScheduleId": "13",
+                "MaxReleaseSchedHarvestDate": "2024-02-29T08:00:00.000Z",
+                "LastUpdateDate": "2024-01-02T15:38:43.204Z",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "W"
+                    }
+                ]
+            }
+        ],
+        "ProcessedDatetimeUTC": "2024-01-02T15:38:43.234Z"
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d171",
+        "Name": "Up",
+        "Code": "UP",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "UP",
+                "SystemId": "4690",
+                "Name": "UP"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d146",
+        "Name": "MTV2",
+        "Code": "MTV2",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "MTV2",
+                "SystemId": "8466",
+                "Name": "MTV2"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d14d",
+        "Name": "Nick Jr.",
+        "Code": "NIKJR",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "NKJR",
+                "SystemId": "2181",
+                "Name": "NICK JR"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d15e",
+        "Name": "Syfy",
+        "Code": "SYFY",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "SYFY",
+                "SystemId": "7235",
+                "Name": "SYFY"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d170",
+        "Name": "TVONE",
+        "Code": "TVONE",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "TV1",
+                "SystemId": "8871",
+                "Name": "TV ONE"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d147",
+        "Name": "MyTV",
+        "Code": "MYTV",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "MNT",
+                "SystemId": "39",
+                "Name": "MYNETWORKTV"
+            }
+        ]
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d15a",
+        "Name": "SPROUT",
+        "Code": "SPROUT",
+        "IsTurnerNetwork": false,
+        "IsHBONetwork": false
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d160",
+        "Name": "TBS",
+        "IsTurnerNetwork": true,
+        "IsHBONetwork": false,
+        "Code": "TBS",
+        "Systems": [
+            {
+                "SystemName": "Nielsen",
+                "Code": "TBSC",
+                "SystemId": "7237",
+                "Name": "TBS NETWORK"
+            },
+            {
+                "SystemName": "Scarlett",
+                "Code": "TBS",
+                "SystemId": "",
+                "Name": "TBS Superstation"
+            },
+            {
+                "SystemName": "ODT",
+                "Code": "TBS",
+                "SystemId": "",
+                "Name": "TBS"
+            },
+            {
+                "SystemName": "RightsLogic",
+                "Code": "All|Entertainment|TBS|TBS Linear",
+                "SystemId": ""
+            },
+            {
+                "SystemName": "Crossroad",
+                "Code": "TBS",
+                "SystemId": "",
+                "Name": "TBS"
+            },
+            {
+                "SystemName": "Harbor",
+                "Code": "TBS",
+                "SystemId": "31"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "FeedCd": "E",
+                "TimeZone": "Eastern Standard Time",
+                "ScheduleId": "3",
+                "MaxReleaseSchedHarvestDate": "3000-01-01T05:00:00.000Z",
+                "LastUpdateDate": "2023-09-25T10:03:09.199Z",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "E"
+                    }
+                ]
+            },
+            {
+                "FeedCd": "W",
+                "TimeZone": "Pacific Standard Time",
+                "ScheduleId": "29",
+                "MaxReleaseSchedHarvestDate": "2024-02-29T08:00:00.000Z",
+                "LastUpdateDate": "2024-01-02T15:38:43.204Z",
+                "IsPrimary": false,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "W"
+                    }
+                ]
+            }
+        ],
+        "ProcessedDatetimeUTC": "2024-01-02T15:38:43.313Z"
+    },
+    {
+        "_id": "5e6177e7df763da3bb55d16a",
+        "Name": "Turner GeneralEnt",
+        "Code": "TIGE",
+        "IsTurnerNetwork": true,
+        "IsHBONetwork": false,
+        "Systems": [
+            {
+                "SystemName": "Scarlett",
+                "Code": "TIGE",
+                "Name": "Turner GeneralEnt"
+            }
+        ]
+    },
+    {
+        "_id": "62025c00c8dac070a5da9dfd",
+        "Name": "CNN Plus",
+        "IsTurnerNetwork": true,
+        "IsHBONetwork": false,
+        "Code": "CNNP",
+        "Systems": [
+            {
+                "SystemName": "Scarlett",
+                "Code": "CNNP",
+                "SystemId": "",
+                "Name": "CNN Plus"
+            }
+        ],
+        "LinearFeeds": [
+            {
+                "FeedCd": "N",
+                "TimeZone": "Eastern Standard Time",
+                "ScheduleId": "2409",
+                "MaxReleaseSchedHarvestDate": "2022-05-01T04:00:00.000Z",
+                "LastUpdateDate": "2022-04-22T21:01:13.450Z",
+                "IsPrimary": true,
+                "Systems": [
+                    {
+                        "SystemName": "Scarlett",
+                        "FeedCd": "N"
+                    }
+                ]
+            }
+        ],
+        "ProcessedDatetimeUTC": "2022-04-22T21:01:13.469Z"
+    }
+]

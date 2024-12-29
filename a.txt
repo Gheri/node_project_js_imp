@@ -1,0 +1,50 @@
+--> // file1.txt (size: 100) -- unknown collection instance
+--> // file2.txt (size: 200) in collection "collection1"
+// file3.txt (size: 200) in collection "collection1"
+// file4.txt (size: 300) in collection "collection2"
+// file2.txt (size: 200) in collection "collection2"
+// file5.txt (size: 10)
+
+collection1 --> 400
+collection2 --> 500
+collection3 --> 600
+collection4 --> 700
+unknown --> 100
+unknown2 --> 10
+
+there are two options
+Option 1
+create heap using above collections based on collection
+pop top K collections
+
+O(M) --> Given Input
+Theoritically (Create Heap Tree) takes O(NLogN) --> but practicallyy its proven as O(N)
+Popping out O(KLogN) as we need top K and N is distinct colllections
+Instead of all N we can only K as we need only K
+
+TreeSet
+
+Option 2
+Sort the collections based on size
+take first k elements
+
+
+
+1. Totdal size of all files = 810
+2. Top K collections based on size
+
+collection1 = 400
+collection2 = 300
+
+// Entities
+FileManager used for above queries
+Set Of Files as we should not allow duplicate file size in queries
+Max Heap Of Collection collection size while popping out.
+
+Collection will have Map <fileName, File, collectionSize>
+
+File {size, name}
+
+
+
+
