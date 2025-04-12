@@ -110,26 +110,30 @@ export function getNowDateInUTC() {
         const newArray = array.filter(element => element !== elementToRemove);
         return newArray;
     }
-
+    
+    // [0,5,10,15]
     export function binarySearch(arr, target) {
         let left = 0;
-        let right = arr.length - 1;
+        let right = arr.length - 1; // 2
     
         while (left <= right) {
-            const mid = Math.floor((left + right) / 2);
-            const midVal = arr[mid];
+            const mid = Math.floor((left + right) / 2); // 1
+            const midVal = arr[mid]; // 5
     
             if (midVal === target) {
                 return mid; // Found target
             } else if (midVal < target) {
                 left = mid + 1; // Continue searching in the right half
             } else {
-                right = mid - 1; // Continue searching in the left half
+                right = mid - 1; // Continue searching in the left half // right 0
             }
         }
     
-        // If target is not found, return the negative insertion point
-        return -(left + 1);
+       // After loop, left points to the smallest number > target
+       // return left < arr.length ? arr[left] : null; // Handle case when target is greater than all
+       // After the loop, right will be at the greatest number < target
+       // return right >= 0 ? arr[right] : null; // Handle case when target is smaller than all
+        return right;
     }
 
     export function isNumberInt(num) {
