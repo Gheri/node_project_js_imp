@@ -129,7 +129,7 @@ console.log(merged.get(2)); // dos
 console.log(merged.get(3)); // three
 
 
-// sort map
+// sort map on keys
 const myMap11 = new Map();
 myMap11.set(100, 'value1');
 myMap11.set(10, 'value3');
@@ -150,7 +150,7 @@ mySet1.add(3);
 
 // intersection
 const mySet2 = new Set([1, 2, 3, 4]);
-const mySet3 = new Set([3, 4, 5 ,6])
+const mySet3 = new Set([3, 4, 5 ,6]);
 const diffrence = new Set([...mySet2].filter(x => !mySet3.has(x)));
 const insection = new Set([...mySet2].filter(x => mySet3.has(x)));
 console.log(diffrence);
